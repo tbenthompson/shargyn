@@ -1,0 +1,22 @@
+crustal thickness
+--DOES NOT HAVE ENOUGH RESOLUTION
+--crust 2.0: http://igppweb.ucsd.edu/~gabi/crust2.html
+--sediment thickness:http://igppweb.ucsd.edu/~gabi/sediment.html
+--http://www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2006/PAPERS/01-14.PDF
+
+P-wave velocity?
+--DOES NOT HAVE ENOUGH RESOLUTION
+--also note that crustal corrections must be applied
+--use http://www.jamstec.go.jp/pacific21/google_earth/
+Ritsema, J., A. Deuss, H. J. van Heijst and J. H. Woodhouse, 2011, S40RTS: a degree-40 shear-velocity model for the mantle from new Rayleigh wave dispersion, teleseismic traveltime and normal-mode splitting function measurements, Geophys. J. Int., doi:10.1111/j.1365-246X.2010.04884.x
+Li, C., R. D. van der Hilst, E. R. Engdahl, S. Burdick, 2008, A new global model for P wave speed variations in Earth's mantle, Geochem. Geophys. Geosyst., 9, Q05018, doi:10.1029/2007GC001806.
+WOW, see this!
+http://www.iris.edu/dms/products/emc/models/refModels.htm
+
+gravity mej?
+--http://bgi.omp.obs-mip.fr/activities/Projects/world_gravity_map_wgm
+--http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/
+--HERERERERERER:http://bgi.omp.obs-mip.fr/data-products/Toolbox/Anomaly-maps-visualization
+
+magnetic mej?
+--http://www.ngdc.noaa.gov/geomag/NGDC720/index.html

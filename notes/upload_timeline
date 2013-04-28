@@ -1,0 +1,3 @@
+#!/bin/bash
+scp timeline.html tbent@linerva.mit.edu:~
+scp timeline.xml tbent@linerva.mit.edu:~

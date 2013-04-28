@@ -1,0 +1,12 @@
+colors:
+255 255 0 127   Basin
+255 200 0 127   Basin2
+200 0 50 180    Volcanics
+100 50 50 127   Sedimentary
+130 80 160 127  Metaseds1
+135 80 80 127   Metaseds2
+0   255 0 127   Granite
+0  40 0   127   Diorite
+0 120 0 127     Serpentinite
+0 0 0	127	Gabbro
+0 0 255 150	High-Grade Metamorphics

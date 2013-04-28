@@ -1,0 +1,90 @@
+colors:
+255 255 0    Basin
+255 200 0    Basin2
+200 0 50     Volcanics
+100 50 50    Sedimentary
+130 80 160   Metaseds1
+135 80 80    Metaseds2
+0   255 0    Granite
+0  40 0      Diorite
+
+
+COLOR SCHEME:
+recent basin sediments -- yellow
+uplifted recent basin sediments -- orange
+igneous -- magenta
+sedimentary (volcanosedimentary included, but distinguished in individual descriptions, essentially this category is "depositional, but not recent")
+metamorphic
+
+color scheme is difficult, think about this some more
+
+map classification scheme:
+contacts
+--intrusive
+--depositional
+--faulted
+----thrust
+----strike-slip
+----normal
+----unknown
+--tectonic (because i'm not separating any metamorphic units, the only tectonic boundaries should be faults)
+
+rock units:
+alluvium
+sedimentary
+metamorphic
+--low-grade
+--high-grade
+igneous
+
+i think i should classify the final map by general age category
+--paleo/mesoproterozoic
+--neoproterozoic/cambrian
+--ordovician/silurian
+--devonian/carboniferous/permian
+--triassic/jurassic/cretaceous/paleogene
+and by who mapped it:
+--russian map
+--cunningham
+--MIT group
+--djikstra?
+
+primary:
+results of oli meeting:
+develop a coherent argument for the transpressional basin
+--left lateral bend at the southeast corner results in some component of step over to the khantaishir and shargyn faults
+--nw striking thrusts on the southern margin
+--the east dipping fault on the west side
+--southwest corner is a diffuse uplifted region due to the collision of left-lateral gobi-altai and the right-lateral altai fault systems.
+--some slight uplift at the western margin due to transpressional motion on the 
+
+Discussion with Oli
+--simple to complex
+--color code faults
+--expand map to include other published maps nearby (cunningham's sutai map)
+--cross-sections in both directions across the basin
+--develop an introduction about basins
+--finish writing the thesis proposal
+--discuss looking the change between right lat and left lat
+
+http://www.docstoc.com/docs/53313243/Processes-of-Intracontinental-Transpressional-Basin-Evolution
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&ved=0CHIQFjAL&url=http%3A%2F%2Fwww.facstaff.bucknell.edu%2Fjtrop%2FTrop%2520et%2520al.%2C%25202003.pdf&ei=YpOZUKW7Jcuw0QHhqYCoAw&usg=AFQjCNHCJIjsjvFF2y9LD2j_eKgBUuOhOQ&sig2=XKUUiOQNP_uLaAUsOidpBg&cad=rja
+http://adsabs.harvard.edu/abs/2010EGUGA..1211929L
+http://www.agu.org/pubs/crossref/1998/1998TC900007.shtml
+http://geosphere.geoscienceworld.org/content/5/4/325.full
+
+investigating basin literature:
+--read about santa barbara basin
+--read about qaidam basin
+--read about miocene ridge basin
+--chapter 1 of busby has a section on strike-slip basins
+--read crowell 1974b from busby chap 1
+--read about intracontinental wrench basins and transpressional basins
+
+write about how past motion might be well preserved due to the low rates of erosion, maybe bring up the flap summits thing?
+
+cross-sections
+--http://pubs.usgs.gov/of/2005/1428/thoms/index.html
+--http://forums.arcgis.com/threads/22538-Geologic-Cross-Sections
+--http://gis.stackexchange.com/questions/2795/how-can-i-create-profile-cross-sections-in-arcgis-10
+--http://www.inigis.net/create-geologic-cross-sections-in-arcmap/

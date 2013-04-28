@@ -1,0 +1,67 @@
+THESIS:
+reorganize folders into the proper structure
+figures:
+--H(toughbook)! redo the arc export so that all active faults are marked as such
+--H(toughbook)! add satellite imagery GMT figures to the cross-sections
+
+--H(fieldnotebook)! read through field notebook and add interesting commentary
+--H(fieldnotebook)! beautify photos and add photos
+
+
+writing:
+--add foliation data to the structural section to support the proposal that foliation is almost always fault parallel
+--add info about fracture sets
+--Khairkhan Range -- add the term where appropriate
+
+Papers:
+--investigate Delvaux 1997 paper on baikal, cited in the Yin 2010 paper in reference to the left-shear zone 
+--investigate At the southern extent of the range, some estimates suggest 30-40km of Cenozoic slip on the Gobi-Tien Shan Fault System (CITE Cunningham 2003?). from Cunningham, D., Owen, L. A., Snee, L. W. & Li, J. 2003a. Structural framework of a major intracontinental orogenic termination zone: the easternmost Tien Shan, China. Journal of the Geological Society, London, 160, 575–590.
+--read Slip rate and slip magnitudes of past earthquakes along the Bogd left-lateral strike-slip fault (Mongolia)
+--are there slip estimates for faults in the Altai?
+Late Pleistocene slip rate of the Höh Serh–Tsagaan Salaa fault system, Mongolian Altai and intracontinental deformation in central Asia
+Late Quaternary rates of uplift and shortening at Baatar Hyarhan (Mongolian Altai) with optically stimulated luminescence
+
+Organizing Terminology:
+Altai Range == NW-SE striking
+Gobi-Altai Range == E-W striking
+Intersection Wedge -- the uplifted area in the southwestern corner of the basin. 
+LKT and UKT == Lower and Upper Khantaishir Thrusts
+Khantaishir range == east side of basin
+Khairkhan Range == along shargyn fault on north side of basin
+Shargyn Fault == Along north side
+Bogd Fault == Along south side
+Tonhil Fault == Along west side
+Dariv Range == to the north
+Dariv Basin
+Dariv Thrust 
+Sutai Range == to the northwest
+Bolnay Fault
+MAKE A FIGURE AT BOTH THE BROAD AND LOCAL SCALES AND BE CONSISTENT WITH THE TERMINOLOGY IN THE PAPER
+
+
+April 5th -- thesis draft ready
+May 1st -- get edits done from oli and jane connor
+May 10th -- Thesis is DUE
+May 17th -- presentations
+
+permanently paused (these things should be put in the SUPP doc)
+--talk about the fault orientations
+--add some info about when slip and deformation started in the Altai and the Gobi-Altai, add to the respective paragraphs in the introduction
+--read the cunningham or howard paper that has lots of useful geomorphic indicators, incorporate some of these
+--come up with a better color scheme for cross-sections -- maybe find and look at some real publication quality cross-secs and see what they did
+talk to Devin about looking at geomorphic features along some of the faults. Especially, where they might indicate different past motions. refer to castelltort 2012
+Compile kinematic indicators and foliations and fractures and see if there are any interesting trends
+read "Active tectonics and late Tertiary strain distribution in central and eastern Iran." - apparently it addresses how strike-slip faults intersect and interact
+--looks like a pretty good template for how to structure my paper
+think about erosion and deposition rates and see if that would provide any weak constraints on the age of the basin 
+investigate the crazy drainage in the southwest of the basin
+calculate exactly how much mass deficit would cause the negative bouguer anomaly
+also calculate the error in the gravity measurements -- is the negative bouguer anomaly under the shargyn basin real?
+finalize my geologic map
+--make a lithologic map
+----remake polygons
+----find polygon holes
+----fill polygon holes
+----categories: general intrusives, dariv/khantaishir igneous arc rocks, lake zone greenschist facies metasedimentary and volcanic rocks, dariv/shargyn fault high grade metamorphics, alluvium, Main mongolian lineament, carboniferous metamorphics and intrusives
+figure out what the hell the insar images mean for shargyn basin
+read about and discuss the connections to other conjugate strike-slip fault systems in Eurasia.(investigate the conjugate V-shaped faults discussed in the conclusion of Yin 2010)

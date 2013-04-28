@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Database file #1: /home/tbent/school/library.bib.bib
+Warning--I didn't find a database entry for "Windley2005"
+Warning--empty publisher in Busby1995
+You've used 26 entries,
+            2773 wiz_defined-function locations,
+            825 strings with 12048 characters,
+and the built_in function-call counts, 13658 in all, are:
+= -- 1272
+> -- 885
+< -- 12
++ -- 299
+- -- 273
+* -- 1241
+:= -- 2198
+add.period$ -- 129
+call.type$ -- 26
+change.case$ -- 168
+chr.to.int$ -- 26
+cite$ -- 53
+duplicate$ -- 528
+empty$ -- 971
+format.name$ -- 311
+if$ -- 2784
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 27
+newline$ -- 189
+num.names$ -- 104
+pop$ -- 255
+preamble$ -- 1
+purify$ -- 143
+quote$ -- 0
+skip$ -- 408
+stack$ -- 0
+substring$ -- 482
+swap$ -- 35
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 281
+warning$ -- 1
+while$ -- 113
+width$ -- 0
+write$ -- 441
+(There were 2 warnings)

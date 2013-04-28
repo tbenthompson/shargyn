@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}
+\contentsline {subsection}{\numberline {1.2}Mongolian Deformation}{3}
+\contentsline {subsection}{\numberline {1.3}Shargyn Basin}{7}
+\contentsline {subsection}{\numberline {1.4}Bedrock Geology}{8}
+\contentsline {section}{\numberline {2}Structural Overview}{11}
+\contentsline {subsection}{\numberline {2.1}Remote Sensing}{11}
+\contentsline {subsection}{\numberline {2.2}Field Mapping}{12}
+\contentsline {subsection}{\numberline {2.3}Khantaishir Thrusts -- Northwards Slip Transfer}{12}
+\contentsline {subsection}{\numberline {2.4}Shargyn Fault and Termination Thrust Splays}{14}
+\contentsline {subsection}{\numberline {2.5}Tonhil Fault and Intersection Wedge Thrusts}{17}
+\contentsline {subsection}{\numberline {2.6}Bogd Fault and Termination Thrust Splays}{18}
+\contentsline {section}{\numberline {3}Geophysical Data}{19}
+\contentsline {section}{\numberline {4}Formation of the Shargyn Basin}{21}
+\contentsline {section}{\numberline {5}Conclusion}{23}
