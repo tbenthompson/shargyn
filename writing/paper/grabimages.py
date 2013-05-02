@@ -12,6 +12,7 @@ call_command('../shargynxsecs/composites/bogdfault/make_composite.py')
 call_command('../shargynxsecs/composites/intersectionwedge/make_composite.py')
 call_command('../shargynxsecs/composites/khantaishir/make_composite.py')
 
+
 files = dict()
 files['./shargynfault.png'] = '../shargynxsecs/composites/shargynfault/final.png'
 files['./bogdfaultxsecs.png'] = '../shargynxsecs/composites/bogdfault/final.png'

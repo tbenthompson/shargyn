@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {2}{Introduction 1}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Sub Section 1}{3}{0}{1}
+\beamer@sectionintoc {3}{Introduction 2}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{Sub Section 2}{6}{0}{2}
+\beamer@subsectionintoc {3}{2}{Highlights}{9}{0}{2}
+\beamer@subsectionintoc {3}{3}{Adding columns}{10}{0}{2}
+\beamer@subsectionintoc {3}{4}{Adding Tables}{11}{0}{2}
+\beamer@subsectionintoc {3}{5}{Graphic}{13}{0}{2}
