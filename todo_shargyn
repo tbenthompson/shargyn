@@ -1,23 +1,15 @@
 THESIS:
-need toughbook/campus for:
---add the small thrust scarp south of the shargyn fault in the neshargyn area
---remake the shapefile exports to add thrust sense, strike-slip sense, 
--- get strike and dip values for cross-sections and the schematic map
---check on the dip of the metamorphics south of the transtensional basin
---download http://onlinelibrary.wiley.com/doi/10.1029/96JB02698/abstract and cite it in the kinematic part of the indo-eurasian collision section
---get Finite strain calculations of continental deformation: 2. Comparison with the India-Eurasia collision zone and cite it in the dynamic part
-
 cross-sections tasks:
 --make the cross-section sat image map pairs
 --get rid of the useless cross-secs, get rid of the carbroken, bugat, and the east shargyn ones, move them to an appendix
 --incorporate modifications to the east shargyn xsec
 
 todo:
+--ADD A SECTION ON THE MAIN TRANSECT THROUGH THE WEDGE?!
 --move the interpretation to after the structural evidence
---fix some of the statements in the tonhil fault section
 --read through the whole document and get rid of notes and cleanup
 --read through field notebook and add interesting commentary and note important photos
---add some of the elevation data to support the tapering off of the splay thrusts on the south side of the basin
+--discuss the possible anticline near the haliun fault? 
 
 currently i have two shargyn basin scale images
 i should use the topography basemap with a faults on it, but i need to figure out how to do fault in gmt with teeth and strike-slip motion indicated
@@ -25,15 +17,8 @@ then i should use the
 
 edits to final figures:
 --add fault motion indications to broad and local figures
---add bolnay fault and the gobi-tien shan fault system and the Bogd Fault system to the broad map
 
 Papers:
---investigate Delvaux 1997 paper on baikal, cited in the Yin 2010 paper in reference to the left-shear zone 
---investigate At the southern extent of the range, some estimates suggest 30-40km of Cenozoic slip on the Gobi-Tien Shan Fault System (CITE Cunningham 2003?). from Cunningham, D., Owen, L. A., Snee, L. W. & Li, J. 2003a. Structural framework of a major intracontinental orogenic termination zone: the easternmost Tien Shan, China. Journal of the Geological Society, London, 160, 575–590.
---read Slip rate and slip magnitudes of past earthquakes along the Bogd left-lateral strike-slip fault (Mongolia)
---are there slip estimates for faults in the Altai?
-Late Pleistocene slip rate of the Höh Serh–Tsagaan Salaa fault system, Mongolian Altai and intracontinental deformation in central Asia
-Late Quaternary rates of uplift and shortening at Baatar Hyarhan (Mongolian Altai) with optically stimulated luminescence
 
 Organizing Terminology:
 Altai Range == NW-SE striking
@@ -59,6 +44,7 @@ May 10th -- Thesis is DUE
 May 17th -- presentations
 
 permanently paused (these things should be put in the SUPP doc)
+--read Slip rate and slip magnitudes of past earthquakes along the Bogd left-lateral strike-slip fault (Mongolia)
 --maybe add more photos?
 --talk about the fault orientations
 --add some info about when slip and deformation started in the Altai and the Gobi-Altai, add to the respective paragraphs in the introduction
