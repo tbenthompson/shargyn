@@ -5,6 +5,7 @@ cross-sections tasks:
 --incorporate modifications to the east shargyn xsec
 
 todo:
+--read through and use jane connor's commentary to improve writing style
 --ADD A SECTION ON THE MAIN TRANSECT THROUGH THE WEDGE?!
 --move the interpretation to after the structural evidence
 --read through the whole document and get rid of notes and cleanup
@@ -12,13 +13,23 @@ todo:
 --discuss the possible anticline near the haliun fault? 
 
 currently i have two shargyn basin scale images
+--make the topobasemap with faults and locations on it
 i should use the topography basemap with a faults on it, but i need to figure out how to do fault in gmt with teeth and strike-slip motion indicated
-then i should use the 
 
 edits to final figures:
---add fault motion indications to broad and local figures
+--add fault motion indications to broad
+--add fault motion to local figures
+--add cross-section labels and
 
-Papers:
+check all figure labels to ensure they point out the interesting features and explain all the important values
+relabel modified map figures
+"The red lines indicate cross-sections and the adjacent letters provide an index for these cross-sections. The white boundaries separate different mapping the areas. The southern area is the mapping performed during this field season, with the smaller enclosed boxes being the areas which we directly observed. The northwestern mapping area of the Sutai Range was performed by \citet{Cunningham2003}. The northeastern mapping was performed by \citet{Dijkstra2006} and as a part of unpublished research by Claire Bucholz."
+
+presentation:
+--add citations to images
+--add new images and remove older images
+--incorporate my edits on back of arch test
+--incorporate jane connor's suggestions from email
 
 Organizing Terminology:
 Altai Range == NW-SE striking
