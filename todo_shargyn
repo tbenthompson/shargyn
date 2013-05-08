@@ -1,58 +1,13 @@
 THESIS:
-cross-sections tasks:
---make the cross-section sat image map pairs
---get rid of the useless cross-secs, get rid of the carbroken, bugat, and the east shargyn ones, move them to an appendix
---incorporate modifications to the east shargyn xsec
-
 todo:
+--respond to helen after turning in draft to jane and oli
 --read through and use jane connor's commentary to improve writing style
---ADD A SECTION ON THE MAIN TRANSECT THROUGH THE WEDGE?!
---move the interpretation to after the structural evidence
---read through the whole document and get rid of notes and cleanup
---read through field notebook and add interesting commentary and note important photos
---discuss the possible anticline near the haliun fault? 
-
-currently i have two shargyn basin scale images
---make the topobasemap with faults and locations on it
-i should use the topography basemap with a faults on it, but i need to figure out how to do fault in gmt with teeth and strike-slip motion indicated
-
-edits to final figures:
---add fault motion indications to broad
---add fault motion to local figures
---add cross-section labels and
-
-check all figure labels to ensure they point out the interesting features and explain all the important values
-relabel modified map figures
-"The red lines indicate cross-sections and the adjacent letters provide an index for these cross-sections. The white boundaries separate different mapping the areas. The southern area is the mapping performed during this field season, with the smaller enclosed boxes being the areas which we directly observed. The northwestern mapping area of the Sutai Range was performed by \citet{Cunningham2003}. The northeastern mapping was performed by \citet{Dijkstra2006} and as a part of unpublished research by Claire Bucholz."
 
 presentation:
 --add citations to images
 --add new images and remove older images
 --incorporate my edits on back of arch test
 --incorporate jane connor's suggestions from email
-
-Organizing Terminology:
-Altai Range == NW-SE striking
-Gobi-Altai Range == E-W striking
-Intersection Wedge -- the uplifted area in the southwestern corner of the basin. 
-LKT and UKT == Lower and Upper Khantaishir Thrusts
-Khantaishir range == east side of basin
-Khairkhan Range == along shargyn fault on north side of basin
-Shargyn Fault == Along north side
-Bogd Fault == Along south side
-Tonhil Fault == Along west side
-Dariv Range == to the north
-Dariv Basin
-Dariv Thrust 
-Sutai Range == to the northwest
-Bolnay Fault
-MAKE A FIGURE AT BOTH THE BROAD AND LOCAL SCALES AND BE CONSISTENT WITH THE TERMINOLOGY IN THE PAPER
-
-
-April 5th -- thesis draft ready
-May 1st -- get edits done from oli and jane connor
-May 10th -- Thesis is DUE
-May 17th -- presentations
 
 permanently paused (these things should be put in the SUPP doc)
 --read Slip rate and slip magnitudes of past earthquakes along the Bogd left-lateral strike-slip fault (Mongolia)
@@ -66,7 +21,7 @@ Compile kinematic indicators and foliations and fractures and see if there are a
 read "Active tectonics and late Tertiary strain distribution in central and eastern Iran." - apparently it addresses how strike-slip faults intersect and interact
 --looks like a pretty good template for how to structure my paper
 think about erosion and deposition rates and see if that would provide any weak constraints on the age of the basin 
-investigate the crazy drainage in the southwest of the basin
+investigate the crazy captured? drainage in the southwest of the basin
 calculate exactly how much mass deficit would cause the negative bouguer anomaly
 also calculate the error in the gravity measurements -- is the negative bouguer anomaly under the shargyn basin real?
 finalize my geologic map

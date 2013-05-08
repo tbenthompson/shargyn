@@ -1,48 +1,57 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: background.aux
+A level-1 auxiliary file: structure.aux
+A level-1 auxiliary file: interpretation.aux
+A level-1 auxiliary file: geophysical.aux
+A level-1 auxiliary file: basin.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: xsecappendix.aux
 The style file: plainnat.bst
-Database file #1: /home/tbent/school/library.bib.bib
-Warning--I didn't find a database entry for "Windley2005"
+Database file #1: /home/tbent/projects/library.bib.bib
 Warning--empty publisher in Busby1995
-You've used 26 entries,
+You've used 37 entries,
             2773 wiz_defined-function locations,
-            825 strings with 12048 characters,
-and the built_in function-call counts, 13658 in all, are:
-= -- 1272
-> -- 885
-< -- 12
-+ -- 299
-- -- 273
-* -- 1241
-:= -- 2198
-add.period$ -- 129
-call.type$ -- 26
-change.case$ -- 168
-chr.to.int$ -- 26
-cite$ -- 53
-duplicate$ -- 528
-empty$ -- 971
-format.name$ -- 311
-if$ -- 2784
+            920 strings with 15119 characters,
+and the built_in function-call counts, 19086 in all, are:
+= -- 1792
+> -- 1211
+< -- 20
++ -- 409
+- -- 372
+* -- 1713
+:= -- 3067
+add.period$ -- 184
+call.type$ -- 37
+change.case$ -- 234
+chr.to.int$ -- 37
+cite$ -- 75
+duplicate$ -- 746
+empty$ -- 1368
+format.name$ -- 433
+if$ -- 3902
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 27
-newline$ -- 189
-num.names$ -- 104
-pop$ -- 255
+missing$ -- 38
+newline$ -- 266
+num.names$ -- 148
+pop$ -- 349
 preamble$ -- 1
-purify$ -- 143
+purify$ -- 198
 quote$ -- 0
-skip$ -- 408
+skip$ -- 583
 stack$ -- 0
-substring$ -- 482
-swap$ -- 35
+substring$ -- 663
+swap$ -- 51
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 281
+type$ -- 402
 warning$ -- 1
-while$ -- 113
+while$ -- 158
 width$ -- 0
-write$ -- 441
-(There were 2 warnings)
+write$ -- 626
+(There was 1 warning)

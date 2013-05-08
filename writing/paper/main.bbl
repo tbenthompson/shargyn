@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{37}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -36,8 +36,7 @@ B.C. Burchfiel, L.H. Royden, R.D. van~der Hilst, B.H. Hager, Z.~Chen, R.W.
 \newblock ISSN 1052-5173.
 \newblock \doi{10.1130/GSATG18A.1}.
 \newblock URL
-  \url{http://www.geosociety.org/gsatoday/archive/18/7/pdf/i1052-5173-18-7-4.p%
-df}.
+  \url{http://www.geosociety.org/gsatoday/archive/18/7/pdf/i1052-5173-18-7-4.pdf}.
 
 \bibitem[Busby and Ingersoll(1995)]{Busby1995}
 C~Busby and R~Ingersoll.
@@ -54,18 +53,6 @@ Eric Calais.
 \newblock ISSN 0148-0227.
 \newblock \doi{10.1029/2002JB002373}.
 \newblock URL \url{http://www.agu.org/pubs/crossref/2003/2002JB002373.shtml}.
-
-\bibitem[Calais et~al.(2002)Calais, Vergnolle, D\'{e}verch\`{e}re, San'kov,
-  Lukhnev, and Amarjargal]{Calais2002a}
-Eric Calais, Mathilde Vergnolle, Jacques D\'{e}verch\`{e}re, Vladimir San'kov,
-  Andrei Lukhnev, and S.~Amarjargal.
-\newblock {Are post-seismic effects of the M = 8.4 Bolnay earthquake (1905 July
-  23) still influencing GPS velocities in the Mongolia-Baikal area?}
-\newblock \emph{Geophysical Journal International}, 149\penalty0 (1):\penalty0
-  157--168, April 2002.
-\newblock ISSN 0956540X.
-\newblock \doi{10.1046/j.1365-246X.2002.01624.x}.
-\newblock URL \url{http://doi.wiley.com/10.1046/j.1365-246X.2002.01624.x}.
 
 \bibitem[Carroll et~al.(1990)Carroll, Yunhai, and Graham]{Carroll1990a}
 AR~Carroll, L~Yunhai, and SA~Graham.
@@ -104,6 +91,13 @@ D.~Cunningham.
 \newblock \doi{10.1144/SP338.17}.
 \newblock URL \url{http://sp.lyellcollection.org/cgi/doi/10.1144/SP338.17}.
 
+\bibitem[Cunningham and Owen(2003)]{Cunningham2003a}
+D~Cunningham and LA~Owen.
+\newblock {Structural framework of a major intracontinental orogenic
+  termination zone: the easternmost Tien Shan, China}.
+\newblock \emph{Journal of the \ldots}, 160:\penalty0 575--590, 2003.
+\newblock URL \url{http://jgs.lyellcollection.org/content/160/4/575.short}.
+
 \bibitem[Cunningham et~al.(2003)Cunningham, Davies, and
   Badarch]{Cunningham2003}
 Dickson Cunningham, Sarah Davies, and Gombosuren Badarch.
@@ -116,6 +110,14 @@ Dickson Cunningham, Sarah Davies, and Gombosuren Badarch.
 \newblock URL
   \url{http://linkinghub.elsevier.com/retrieve/pii/S0264370703000462}.
 
+\bibitem[Davy and Cobbold(1988)]{Davy1988}
+P~Davy and PR~Cobbold.
+\newblock {Indentation tectonics in nature and experiment. 1. Experiments
+  scaled for gravity}.
+\newblock \emph{Bull. Geol. Inst. Uppsala}, 1988.
+\newblock URL
+  \url{http://blogperso.univ-rennes1.fr/philippe.davy/public/pdf/Davy\_Cobbold\_Bull.Upsala\_1988.pdf}.
+
 \bibitem[Dijkstra and Brouwer(2006)]{Dijkstra2006}
 AH~Dijkstra and FM~Brouwer.
 \newblock {Late Neoproterozoic proto-arc ocean crust in the Dariv Range,
@@ -123,6 +125,31 @@ AH~Dijkstra and FM~Brouwer.
 \newblock \emph{Journal of the Geological Society, London}, 163:\penalty0
   363--373, 2006.
 \newblock URL \url{http://jgs.geoscienceworld.org/content/163/2/363.short}.
+
+\bibitem[England and Molnar(1997)]{England1997}
+P.~England and P.~Molnar.
+\newblock {Active Deformation of Asia: From Kinematics to Dynamics}.
+\newblock \emph{Science}, 278\penalty0 (5338):\penalty0 647--650, October 1997.
+\newblock ISSN 00368075.
+\newblock \doi{10.1126/science.278.5338.647}.
+\newblock URL
+  \url{http://www.sciencemag.org/cgi/doi/10.1126/science.278.5338.647}.
+
+\bibitem[Frankel et~al.(2010)Frankel, Wegmann, Bayasgalan, Carson, Bader,
+  Adiya, Bolor, Durfey, Otgonkhuu, Sprajcar, Sweeney, Walker, Marstellar, and
+  Gregory]{Frankel2010}
+Kurt~L. Frankel, Karl~W. Wegmann, Amgalan Bayasgalan, Robert~J. Carson,
+  Nicholas~E. Bader, Tsolmon Adiya, Erdenebat Bolor, Chelsea~C. Durfey, Jargal
+  Otgonkhuu, Jodi Sprajcar, Kristin~E. Sweeney, Richard~T. Walker, Tina~L.
+  Marstellar, and Laura Gregory.
+\newblock {Late Pleistocene slip rate of the H\"{o}h Serh-Tsagaan Salaa fault
+  system, Mongolian Altai and intracontinental deformation in central Asia}.
+\newblock \emph{Geophysical Journal International}, 183\penalty0 (3):\penalty0
+  1134--1150, December 2010.
+\newblock ISSN 0956540X.
+\newblock \doi{10.1111/j.1365-246X.2010.04826.x}.
+\newblock URL
+  \url{http://gji.oxfordjournals.org/cgi/doi/10.1111/j.1365-246X.2010.04826.x}.
 
 \bibitem[Heidbach et~al.(2009)Heidbach, Tingay, Barth, Reinecker, Kurfe\ss, and
   M\"{u}ller]{WorldStressMap2008}
@@ -132,6 +159,13 @@ Oliver Heidbach, Mark Tingay, Andreas Barth, John Reinecker, Daniel Kurfe\ss,
   scale 1:46,000,000}.
 \newblock \emph{Commission for the Geological Map of the World}, 2009.
 \newblock \doi{10.1594/GFZ.WSM.Map2009}.
+
+\bibitem[Houseman and England(1993)]{Houseman1993}
+G~Houseman and Philip England.
+\newblock {Crustal thickening versus lateral expulsion in the Indian Asian
+  continental collision}.
+\newblock \emph{Journal of Geophysical Research}, 98\penalty0 (93), 1993.
+\newblock URL \url{http://onlinelibrary.wiley.com/doi/10.1029/93JB00443/full}.
 
 \bibitem[Howard and Cunningham(2006)]{Howard2006}
 JP~Howard and WD~Cunningham.
@@ -152,11 +186,40 @@ RA~Kurushin, A~Bayasgalan, M~Olziybat, B~Enhtuvshin, Peter Molnar,
 \newblock URL \url{http://geology.gsapubs.org/content/24/7/579.short
   http://specialpapers.gsapubs.org/content/320/1.abstract}.
 
+\bibitem[Lu et~al.(2008)Lu, Li, Zhang, and Niu]{Lu2008}
+Songnian Lu, Huaikun Li, Chuanlin Zhang, and Guanghua Niu.
+\newblock {Geological and geochronological evidence for the Precambrian
+  evolution of the Tarim Craton and surrounding continental fragments}.
+\newblock \emph{Precambrian Research}, 160\penalty0 (1-2):\penalty0 94--107,
+  January 2008.
+\newblock ISSN 03019268.
+\newblock \doi{10.1016/j.precamres.2007.04.025}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0301926807001581}.
+
+\bibitem[Maus(2010)]{Maus2010}
+S.~Maus.
+\newblock {An ellipsoidal harmonic representation of Earth's lithospheric
+  magnetic field to degree and order 720}.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 11\penalty0
+  (6):\penalty0 n/a--n/a, June 2010.
+\newblock ISSN 15252027.
+\newblock \doi{10.1029/2010GC003026}.
+\newblock URL \url{http://doi.wiley.com/10.1029/2010GC003026}.
+
 \bibitem[Neil and Houseman(1997)]{Neil1997}
 EA~Neil and GA~Houseman.
 \newblock {Geodynamics of the Tarim Basin and the Tian Shan in central Asia}.
 \newblock \emph{Tectonics}, 1997.
 \newblock URL \url{http://www.agu.org/pubs/sample\_articles/bp/97TC01413.pdf}.
+
+\bibitem[Northrup et~al.(1995)Northrup, Royden, and Burchfiel]{Northrup1995}
+CJ~Northrup, LH~Royden, and BC~Burchfiel.
+\newblock {Motion of the Pacific plate relative to Eurasia and its potential
+  relation to Cenozoic extension along the eastern margin of Eurasia}.
+\newblock \emph{Geology}, 1995.
+\newblock \doi{10.1130/0091-7613(1995)023<0719}.
+\newblock URL \url{http://geology.gsapubs.org/content/23/8/719.short}.
 
 \bibitem[Okal(1976)]{Okal1976a}
 Emile~a. Okal.
@@ -174,6 +237,12 @@ N.K. Pavlis, S.A. Holmes, S.C. Kenyon, and J.K. Factor.
 \newblock {An Earth Gravitational Model to Degree 2160: EGM2008}.
 \newblock \emph{presented at the 2008 General Assembly of the European
   Geosciences Union, Vienna, Austria}, April 2008.
+
+\bibitem[Peltzer and Saucier(1996)]{Peltzer1996}
+Gilles Peltzer and F~Saucier.
+\newblock {Present-day kinematics of Asia derived from geologic fault rates}.
+\newblock \emph{Journal of Geophysical Research: Solid \ldots}, 10, 1996.
+\newblock URL \url{http://onlinelibrary.wiley.com/doi/10.1029/96JB02698/full}.
 
 \bibitem[Pollitz(2003)]{Pollitz2003}
 Fred Pollitz.
@@ -200,12 +269,41 @@ W.~Schellart and G.~Lister.
   959--972, 2005.
 \newblock URL \url{http://jgs.geoscienceworld.org/content/162/6/959.short}.
 
+\bibitem[Schellart(2005)]{Schellart2005a}
+W.P. Schellart.
+\newblock {Influence of the subducting plate velocity on the geometry of the
+  slab and migration of the subduction hinge}.
+\newblock \emph{Earth and Planetary Science Letters}, 231\penalty0
+  (3-4):\penalty0 197--219, March 2005.
+\newblock ISSN 0012821X.
+\newblock \doi{10.1016/j.epsl.2004.12.019}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012821X0400737X}.
+
+\bibitem[Tapponnier and Molnar(1979)]{Tapponnier1979}
+P~Tapponnier and P~Molnar.
+\newblock {Active faulting and Cenozoic tectonics of the Tien Shan, Mongolia,
+  and Baykal regions}.
+\newblock \emph{Journal of Geophysical Research}, 84\penalty0 (9), 1979.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1029/JB084iB07p03425/full}.
+
 \bibitem[Tapponnier et~al.(1982)Tapponnier, Peltzer, and Dain]{Tapponnier1982}
 P~Tapponnier, G~Peltzer, and AY~Le Dain.
 \newblock {Propagating extrusion tectonics in Asia: New insights from simple
   experiments with plasticine}.
 \newblock \emph{Geology}, 10:\penalty0 611--616, 1982.
 \newblock URL \url{http://geology.geoscienceworld.org/content/10/12/611.short}.
+
+\bibitem[Walker et~al.(2008)Walker, Molor, Fox, and Bayasgalan]{Walker2008}
+R.~T. Walker, E.~Molor, M.~Fox, and a.~Bayasgalan.
+\newblock {Active tectonics of an apparently aseismic region: distributed
+  active strike-slip faulting in the Hangay Mountains of central Mongolia}.
+\newblock \emph{Geophysical Journal International}, 174\penalty0 (3):\penalty0
+  1121--1137, September 2008.
+\newblock ISSN 0956540X.
+\newblock \doi{10.1111/j.1365-246X.2008.03874.x}.
+\newblock URL \url{http://doi.wiley.com/10.1111/j.1365-246X.2008.03874.x}.
 
 \bibitem[Walker et~al.(2006)Walker, Bayasgalan, Carson, Hazlett, McCarthy,
   Mischler, Molor, Sarantsetseg, Smith, Tsogtbadrakh, and Tsolmon]{Walker2006}

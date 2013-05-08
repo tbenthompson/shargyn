@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.19)  3 MAY 2013 15:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.19)  8 MAY 2013 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -183,7 +183,15 @@ LaTeX Warning: Unused global option(s):
     [doublepage].
 
 (./main.aux (./abstract.aux) (./intro.aux) (./background.aux) (./structure.aux)
-(./geophysical.aux) (./basin.aux) (./conclusion.aux))
+(./interpretation.aux) (./geophysical.aux) (./basin.aux) (./conclusion.aux)
+(./xsecappendix.aux
+
+LaTeX Warning: Label `lil_dariv_joint' multiply defined.
+
+
+LaTeX Warning: Label `lil_dariv_joint' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -198,8 +206,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen122
@@ -290,12 +297,12 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
  [1
 
 
@@ -326,120 +333,261 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ] (./main.lof
 [5
 
-] [6])
+] [6]
+
+LaTeX Warning: Reference `regional' on page 33 undefined on input line 15.
+
+)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [7]
+ [7] [8]
 \openout2 = `intro.aux'.
 
- (./intro.tex
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8
-
-
-]) [9]
-\openout2 = `background.aux'.
-
- (./background.tex [10
+ (./intro.tex) [9
 
 
 ]
+\openout2 = `background.aux'.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11]
-
-LaTeX Warning: Text page 12 contains only floats.
-
-
-Overfull \vbox (4.88832pt too high) has occurred while \output is active []
-
-
-[12]
-
-LaTeX Warning: Reference `)' on page 13 undefined on input line 24.
+ (./background.tex
+<asia.png, id=35, 501.5538pt x 430.0065pt>
+File: asia.png Graphic file (type png)
+ <use asia.png>
+Package pdftex.def Info: asia.png used on input line 8.
+(pdftex.def)             Requested size: 505.90718pt x 433.62076pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[10
+
+
+] [11 <./asia.png>] <broad.png, id=44, 446.3877pt x 260.6538pt>
+File: broad.png Graphic file (type png)
+
+<use broad.png>
+Package pdftex.def Info: broad.png used on input line 23.
+(pdftex.def)             Requested size: 505.8971pt x 295.61317pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12] [13 <./broad.png>] <intro.png, id=53, 565.8741pt x 340.1508pt>
+File: intro.png Graphic file (type png)
+
+<use intro.png>
+Package pdftex.def Info: intro.png used on input line 40.
+(pdftex.def)             Requested size: 505.9145pt x 303.55331pt.
+ <basins.png, id=54, 401.5803pt x 506.1309pt>
+File: basins.png Graphic file (type png)
+ <use basins.png>
+Package pdftex.def Info: basins.png used on input line 48.
+(pdftex.def)             Requested size: 325.22311pt x 409.7707pt.
+
+[14 <./intro.png>]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-[13] [14]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+ [15 <./basins.png>] [16]
+<bedrockfigure.png, id=65, 337.5009pt x 253.1859pt>
+File: bedrockfigure.png Graphic file (type png)
+ <use bedrockfigure.png>
+Package pdftex.def Info: bedrockfigure.png used on input line 73.
+(pdftex.def)             Requested size: 462.5228pt x 325.25128pt.
+
+<grain.png, id=66, 446.6286pt x 261.1356pt>
+File: grain.png Graphic file (type png)
+ <use grain.png>
+Package pdftex.def Info: grain.png used on input line 80.
+(pdftex.def)             Requested size: 433.61768pt x 252.95454pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[15] [16] [17])
+[17 <./bedrockfigure.png>] [18 <./grain.png>])
 \openout2 = `structure.aux'.
 
- (./structure.tex [18
+ (./structure.tex [19
 
 
 
-] [19]
+]
+<fault_map.png, id=78, 589.7232pt x 339.669pt>
+File: fault_map.png Graphic file (type png)
+ <use fault_map.png>
+Package pdftex.def Info: fault_map.png used on input line 14.
+(pdftex.def)             Requested size: 505.89229pt x 361.3587pt.
+
+<khantaishir_joint.png, id=79, 560.5743pt x 754.7397pt>
+File: khantaishir_joint.png Graphic file (type png)
+
+<use khantaishir_joint.png>
+Package pdftex.def Info: khantaishir_joint.png used on input line 24.
+(pdftex.def)             Requested size: 505.89789pt x 680.82568pt.
+
+
+LaTeX Warning: Float too large for page by 50.09401pt on input line 26.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[20 <./fault_map.png>] <faultscollage.png, id=84, 775.698pt x 880.2486pt>
+File: faultscollage.png Graphic file (type png)
 
-LaTeX Warning: Reference `faultzones' on page 20 undefined on input line 37.
+<use faultscollage.png>
+Package pdftex.def Info: faultscollage.png used on input line 32.
+(pdftex.def)             Requested size: 289.07509pt x 433.62238pt.
 
-[20]
 
-LaTeX Warning: Reference `faultzones' on page 21 undefined on input line 43.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<haliun_joint.png, id=85, 544.9158pt x 532.389pt>
+File: haliun_joint.png Graphic file (type png)
+ <use haliun_joint.png>
+Package pdftex.def Info: haliun_joint.png used on input line 47.
+(pdftex.def)             Requested size: 505.8934pt x 493.61378pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[21] [22]
+[21] <intersection_wedge_joint.png, id=89, 516.9714pt x 655.7298pt>
+File: intersection_wedge_joint.png Graphic file (type png)
+
+<use intersection_wedge_joint.png>
+Package pdftex.def Info: intersection_wedge_joint.png used on input line 65.
+(pdftex.def)             Requested size: 505.88701pt x 641.79036pt.
+
+
+LaTeX Warning: Float too large for page by 54.55869pt on input line 68.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23] [24] [25
+[22] [23] <lil_dariv_joint.png, id=96, 503.481pt x 539.8569pt>
+File: lil_dariv_joint.png Graphic file (type png)
 
-] [26] [27]
+<use lil_dariv_joint.png>
+Package pdftex.def Info: lil_dariv_joint.png used on input line 86.
+(pdftex.def)             Requested size: 505.89975pt x 542.06325pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[28]
+[24] [25 <./khantaishir_joint.png>] [26 <./faultscollage.png>] [27 <./haliun_jo
+int.png>] [28 <./intersection_wedge_joint.png>] [29 <./lil_dariv_joint.png>]
+<neshargyn_joint.png, id=121, 538.6524pt x 527.3301pt>
+File: neshargyn_joint.png Graphic file (type png)
 
-LaTeX Warning: Reference `faultzones' on page 29 undefined on input line 110.
+<use neshargyn_joint.png>
+Package pdftex.def Info: neshargyn_joint.png used on input line 99.
+(pdftex.def)             Requested size: 505.91415pt x 495.06274pt.
 
-) [29]
-\openout2 = `geophysical.aux'.
-
- (./geophysical.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [30
 
+] <shargyn_fault_streams.png, id=125, 553.5882pt x 293.6571pt>
+File: shargyn_fault_streams.png Graphic file (type png)
 
-]
+<use shargyn_fault_streams.png>
+Package pdftex.def Info: shargyn_fault_streams.png used on input line 108.
+(pdftex.def)             Requested size: 289.09233pt x 144.53848pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31]) [32]
+[31 <./neshargyn_joint.png>]) [32 <./shargyn_fault_streams.png>]
+\openout2 = `interpretation.aux'.
+
+
+(./interpretation.tex <schematic.png, id=134, 421.3341pt x 265.2309pt>
+File: schematic.png Graphic file (type png)
+
+<use schematic.png>
+Package pdftex.def Info: schematic.png used on input line 6.
+(pdftex.def)             Requested size: 433.63823pt x 252.9554pt.
+
+
+LaTeX Warning: Reference `regional' on page 33 undefined on input line 7.
+
+
+LaTeX Warning: Reference `regional' on page 33 undefined on input line 7.
+
+) [33
+
+
+ <./schematic.png>]
+\openout2 = `geophysical.aux'.
+
+ (./geophysical.tex
+<gravity.png, id=139, 548.2884pt x 505.89pt>
+File: gravity.png Graphic file (type png)
+ <use gravity.png>
+Package pdftex.def Info: gravity.png used on input line 10.
+(pdftex.def)             Requested size: 361.35275pt x 361.35352pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[34
+
+
+] <magnetic.ps.png, id=144, 461.725pt x 467.7475pt>
+File: magnetic.ps.png Graphic file (type png)
+ <use magnetic.ps.png>
+Package pdftex.def Info: magnetic.ps.png used on input line 19.
+(pdftex.def)             Requested size: 361.3488pt x 361.36572pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35 <./gravity.png>] <eq_locs.png, id=148, 589.9641pt x 340.1508pt>
+File: eq_locs.png Graphic file (type png)
+
+<use eq_locs.png>
+Package pdftex.def Info: eq_locs.png used on input line 28.
+(pdftex.def)             Requested size: 361.36292pt x 208.14046pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36 <./magnetic.ps.png>]) [37 <./eq_locs.png>]
 \openout2 = `basin.aux'.
 
- (./basin.tex [33
+ (./basin.tex [38
+
+
+] [39]) [40]
+\openout2 = `conclusion.aux'.
+
+
+(./conclusion.tex) [41
 
 
 ]
+\openout2 = `xsecappendix.aux'.
 
-LaTeX Warning: Reference `asia' on page 34 undefined on input line 10.
+ (./xsecappendix.tex
+<x1x2x3.png, id=169, 2027.575pt x 2089.8075pt>
+File: x1x2x3.png Graphic file (type png)
+ <use x1x2x3.png>
+Package pdftex.def Info: x1x2x3.png used on input line 4.
+(pdftex.def)             Requested size: 505.87155pt x 505.86891pt.
 
-[34]) [35]
-\openout2 = `conclusion.aux'.
+<x4x5.png, id=170, 2027.575pt x 1537.745pt>
+File: x4x5.png Graphic file (type png)
+ <use x4x5.png>
+Package pdftex.def Info: x4x5.png used on input line 10.
+(pdftex.def)             Requested size: 505.87155pt x 379.414pt.
 
- (./conclusion.tex) [36
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [42
 
 
-] (./main.bbl
+ <./x1x2x3.png>] [43 <./x4x5.png>] (./main.bbl
 Underfull \hbox (badness 3108) in paragraph at lines 19--28
 []\OT1/cmr/m/n/12 Amgalan Bayas-galan, James Jack-son, and Dan McKen-zie.  Lith
 o-sphere rhe-ol-ogy and
@@ -464,226 +612,350 @@ Underfull \hbox (badness 6493) in paragraph at lines 19--28
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 31--41
+Underfull \hbox (badness 2229) in paragraph at lines 31--40
 []\OT1/cmr/m/n/12 B.C. Burch-fiel, L.H. Roy-den, R.D. van der Hilst, B.H. Hager
 , Z. Chen, R.W. King,
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 31--41
+Underfull \hbox (badness 2990) in paragraph at lines 31--40
 \OT1/cmr/m/n/12 C. Li, J. L^^?u, H. Yao, and E. Kirby.  A ge-o-log-i-cal and ge
 o-phys-i-cal con-text for
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 31--41
+Underfull \hbox (badness 4739) in paragraph at lines 31--40
 \OT1/cmr/m/n/12 the Wenchuan earth-quake of 12 May 2008, Sichuan, Peo-ple's Re-
 pub-lic of China.
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 31--41
+Underfull \hbox (badness 2717) in paragraph at lines 31--40
 \OT1/cmr/m/it/12 GSA To-day\OT1/cmr/m/n/12 , 18(7):4, 2008.  ISSN 1052-5173.  d
 oi: 10.1130/GSATG18A.1.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--48
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
 []\OT1/cmr/m/n/12 C Busby and R In-ger-soll.  \OT1/cmr/m/it/12 Tec-ton-ics of s
 ed-i-men-tary basins\OT1/cmr/m/n/12 .  1995.  URL
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 50--57
+Underfull \hbox (badness 3514) in paragraph at lines 49--56
 []\OT1/cmr/m/n/12 Eric Calais.  GPS mea-sure-ments of crustal de-for-ma-tion in
  the Baikal-Mongolia area
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 50--57
+Underfull \hbox (badness 1281) in paragraph at lines 49--56
 \OT1/cmr/m/n/12 (1994-2002): Im-pli-ca-tions for cur-rent kine-mat-ics of Asia.
   \OT1/cmr/m/it/12 Jour-nal of Geo-phys-i-cal Re-
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 50--57
+Underfull \hbox (badness 5147) in paragraph at lines 49--56
 \OT1/cmr/m/it/12 search\OT1/cmr/m/n/12 , 108(B10), 2003.  ISSN 0148-0227.  doi:
  10.1029/2002JB002373.  URL
  []
 
-[37
 
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
 []\OT1/cmr/m/n/12 AR Car-roll, L Yun-hai, and SA Gra-ham.  Jung-gar basin, nort
 h-west
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--76
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
 \OT1/cmr/m/n/12 China: trapped late Pa-le-o-zoic ocean.  \OT1/cmr/m/it/12 Tecto
 no-physics\OT1/cmr/m/n/12 , 1990.  URL
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 78--85
+Underfull \hbox (badness 1789) in paragraph at lines 65--72
 \OT1/cmr/m/n/12 the-sis and dis-cus-sion.  \OT1/cmr/m/it/12 Jour-nal of Struc-t
 ural Ge-ol-ogy\OT1/cmr/m/n/12 , 14(10):1149--1156, 1992.  URL
  []
 
+[44
 
-Underfull \hbox (badness 1082) in paragraph at lines 87--96
+
+]
+Underfull \hbox (badness 1082) in paragraph at lines 74--83
 \OT1/cmr/m/n/12 (2):436--444, De-cem-ber 2005.  ISSN 0012821X.  doi: 10.1016/j.
 epsl.2005.09.013.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--106
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
 []\OT1/cmr/m/n/12 D. Cun-ning-ham.  Tec-tonic set-ting and struc-tural evo-lu-t
 ion of the Late Ceno-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--106
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
 \OT1/cmr/m/n/12 zoic Gobi Al-tai oro-gen.  \OT1/cmr/m/it/12 Ge-o-log-i-cal So-c
 i-ety, Lon-don, Spe-cial Pub-li-ca-tions\OT1/cmr/m/n/12 , 338
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 98--106
+Underfull \hbox (badness 4531) in paragraph at lines 85--93
 \OT1/cmr/m/n/12 (1):361--387, Septem-ber 2010.  ISSN 0305-8719.  doi: 10.1144/S
 P338.17.  URL
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 109--118
+Underfull \hbox (badness 7256) in paragraph at lines 103--112
 []\OT1/cmr/m/n/12 Dickson Cun-ning-ham, Sarah Davies, and Gom-bo-suren Badarch.
   Crustal ar-chi-tec-
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 109--118
+Underfull \hbox (badness 5431) in paragraph at lines 103--112
 \OT1/cmr/m/n/12 ture and ac-tive growth of the Su-tai Range, west-ern Mon-go-li
 a: a ma-jor in-tra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--118
+Underfull \hbox (badness 10000) in paragraph at lines 103--112
 \OT1/cmr/m/n/12 con-ti-nen-tal, in-traplate re-strain-ing bend.  \OT1/cmr/m/it/
 12 Jour-nal of Geo-dy-nam-ics\OT1/cmr/m/n/12 , 36(1-2):169--
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 109--118
+Underfull \hbox (badness 3590) in paragraph at lines 103--112
 \OT1/cmr/m/n/12 191, Au-gust 2003.  ISSN 02643707.  doi: 10.1016/S0264-3707(03)
 00046-2.  URL
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 120--126
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
+[]\OT1/cmr/m/n/12 P Davy and PR Cob-bold.  In-den-ta-tion tec-ton-ics in na-tur
+e and ex-per-i-ment.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
+\OT1/cmr/m/n/12 1. Ex-per-i-ments scaled for grav-ity.  \OT1/cmr/m/it/12 Bull. 
+Geol. Inst. Up-p-sala\OT1/cmr/m/n/12 , 1988.  URL
+ []
+
+
+Overfull \hbox (65.862pt too wide) in paragraph at lines 114--120
+\OT1/cmtt/m/n/12 http://blogperso.univ-rennes1.fr/philippe.davy/public/pdf/Davy
+[]Cobbold[]Bull.Upsala[]1988.pdf\OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 122--128
 []\OT1/cmr/m/n/12 AH Di-jk-stra and FM Brouwer.  Late Neo-pro-tero-zoic proto-a
 rc ocean crust in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--128
 \OT1/cmr/m/n/12 Dariv Range, West-ern Mon-go-lia: a supra-subduction zone end-m
 ember ophi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--128
 \OT1/cmr/m/n/12 o-lite.  \OT1/cmr/m/it/12 Jour-nal of the Ge-o-log-i-cal So-ci-
 ety, Lon-don\OT1/cmr/m/n/12 , 163:363--373, 2006.  URL
  []
 
-
-Underfull \hbox (badness 4981) in paragraph at lines 137--143
+[45]
+Underfull \hbox (badness 4981) in paragraph at lines 171--177
 []\OT1/cmr/m/n/12 JP Howard and WD Cun-ning-ham.  Com-pet-ing pro-cesses of cla
 s-tic de-po-si-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--143
+Underfull \hbox (badness 10000) in paragraph at lines 171--177
 \OT1/cmr/m/n/12 com-part-men-tal-ized in-ver-sion in an ac-tively evolv-ing tra
 ns-pres-sional basin, west-ern
  []
 
 
-Underfull \hbox (badness 4366) in paragraph at lines 137--143
+Underfull \hbox (badness 4366) in paragraph at lines 171--177
 \OT1/cmr/m/n/12 Mon-go-lia.  \OT1/cmr/m/it/12 Jour-nal of the Ge-o-log-i-cal So
 -ci-ety, Lon-don\OT1/cmr/m/n/12 , 163:657--670, 2006.  URL
  []
 
-[38]
-Underfull \hbox (badness 2435) in paragraph at lines 146--154
+
+Underfull \hbox (badness 2435) in paragraph at lines 180--188
 []\OT1/cmr/m/n/12 RA Ku-rushin, A Bayas-galan, M Olziy-bat, B En-htu-vshin, Pe-
 ter Mol-nar, C Ba-yarsay-
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 146--154
+Underfull \hbox (badness 1264) in paragraph at lines 180--188
 \OT1/cmr/m/n/12 Mon-go-lia, earth-quake.  \OT1/cmr/m/it/12 Ge-o-log-i-cal So-ci
 -ety of Amer-i-can Spe-cial Pa-per\OT1/cmr/m/n/12 , 320:1--144, 1998.
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 162--171
+Underfull \hbox (badness 5787) in paragraph at lines 190--199
+[]\OT1/cmr/m/n/12 Songnian Lu, Huaikun Li, Chuan-lin Zhang, and Guanghua Niu.  
+Ge-o-log-i-cal and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--199
+\OT1/cmr/m/n/12 geochrono-log-i-cal ev-i-dence for the Pre-cam-brian evo-lu-tio
+n of the Tarim Cra-ton
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--199
+\OT1/cmr/m/n/12 and sur-round-ing con-ti-nen-tal frag-ments.  \OT1/cmr/m/it/12 
+Pre-cam-brian Re-search\OT1/cmr/m/n/12 , 160(1-2):94--107,
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 190--199
+\OT1/cmr/m/n/12 Jan-uary 2008.  ISSN 03019268.  doi: 10.1016/j.precamres.2007.0
+4.025.  URL
+ []
+
+[46]
+Underfull \hbox (badness 4940) in paragraph at lines 217--223
+[]\OT1/cmr/m/n/12 CJ Northrup, LH Roy-den, and BC Burch-fiel.  Mo-tion of the P
+a-cific plate rel-a-
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 217--223
+\OT1/cmr/m/n/12 tive to Eura-sia and its po-ten-tial re-la-tion to Ceno-zoic ex
+-ten-sion along the east-ern
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 217--223
+\OT1/cmr/m/n/12 mar-gin of Eura-sia.  \OT1/cmr/m/it/12 Ge-ol-ogy\OT1/cmr/m/n/12
+ , 1995.  doi: 10.1130/0091-7613(1995)023<0719.  URL
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 225--234
 \OT1/cmr/m/n/12 (De-cem-ber 4, 1957) earth-quake.  \OT1/cmr/m/it/12 Physics of 
 the Earth and Plan-e-tary In-te-ri-ors\OT1/cmr/m/n/12 , 12(4):
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--187
+Underfull \hbox (badness 6204) in paragraph at lines 242--246
+[]\OT1/cmr/m/n/12 Gilles Peltzer and F Saucier.  Present-day kine-mat-ics of As
+ia de-rived from ge-o-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 242--246
+\OT1/cmr/m/n/12 logic fault rates.  \OT1/cmr/m/it/12 Jour-nal of Geo-phys-i-cal
+ Re-search: Solid ...\OT1/cmr/m/n/12 , 10, 1996.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
 []\OT1/cmr/m/n/12 Fred Pol-litz.  Fault in-ter-ac-tion and stress trig-ger-ing 
 of twen-ti-eth cen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--187
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
 \OT1/cmr/m/n/12 tury earth-quakes in Mon-go-lia.  \OT1/cmr/m/it/12 Jour-nal of 
 Geo-phys-i-cal Re-search\OT1/cmr/m/n/12 , 108
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--187
+Underfull \hbox (badness 10000) in paragraph at lines 248--256
 \OT1/cmr/m/n/12 (B10):2503, 2003.  ISSN 0148-0227.  doi: 10.1029/2002JB002375. 
  URL
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 189--194
+Underfull \hbox (badness 5607) in paragraph at lines 258--263
 []\OT1/cmr/m/n/12 LH Roy-den, BC Burch-fiel, and RD van der Hilst.  The ge-o-lo
 g-i-cal evo-lu-tion of
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 189--194
+Underfull \hbox (badness 2837) in paragraph at lines 258--263
 \OT1/cmr/m/n/12 the Ti-betan Plateau.  \OT1/cmr/m/it/12 Sci-ence\OT1/cmr/m/n/12
  , 1054, 2008.  doi: 10.1126/sci-ence.1155371.  URL
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 204--209
+Underfull \hbox (badness 1067) in paragraph at lines 273--282
+[]\OT1/cmr/m/n/12 W.P. Schel-lart.  In-flu-ence of the sub-duct-ing plate ve-lo
+c-ity on the ge-om-e-try of the slab
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 273--282
+\OT1/cmr/m/n/12 and mi-gra-tion of the sub-duc-tion hinge.  \OT1/cmr/m/it/12 Ea
+rth and Plan-e-tary Sci-ence Let-ters\OT1/cmr/m/n/12 , 231(3-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 273--282
+\OT1/cmr/m/n/12 4):197--219, March 2005.  ISSN 0012821X.  doi: 10.1016/j.epsl.2
+004.12.019.  URL
+ []
+
+[47]
+Underfull \hbox (badness 1509) in paragraph at lines 284--290
+\OT1/cmr/m/n/12 Mon-go-lia, and Baykal re-gions.  \OT1/cmr/m/it/12 Jour-nal of 
+Geo-phys-i-cal Re-search\OT1/cmr/m/n/12 , 84(9), 1979.  URL
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 292--297
 []\OT1/cmr/m/n/12 P Tap-pon-nier, G Peltzer, and AY Le Dain.  Prop-a-gat-ing ex
 -tru-sion tec-ton-ics in Asia:
  []
 
-[39]) [40] (./main.aux (./abstract.aux) (./intro.aux) (./background.aux)
-(./structure.aux) (./geophysical.aux) (./basin.aux) (./conclusion.aux))
+
+Underfull \hbox (badness 1688) in paragraph at lines 299--307
+[]\OT1/cmr/m/n/12 R. T. Walker, E. Molor, M. Fox, and a. Bayas-galan.  Ac-tive 
+tec-ton-ics of an ap-par-
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 299--307
+\OT1/cmr/m/n/12 ently aseis-mic re-gion: dis-tributed ac-tive strike-slip fault
+-ing in the Hangay Moun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--307
+\OT1/cmr/m/n/12 tains of cen-tral Mon-go-lia.  \OT1/cmr/m/it/12 Geo-phys-i-cal 
+Jour-nal In-ter-na-tional\OT1/cmr/m/n/12 , 174(3):1121--1137,
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 299--307
+\OT1/cmr/m/n/12 Septem-ber 2008.  ISSN 0956540X.  doi: 10.1111/j.1365-246X.2008
+.03874.x.  URL
+ []
+
+) [48] (./main.aux (./abstract.aux) (./intro.aux) (./background.aux)
+(./structure.aux) (./interpretation.aux) (./geophysical.aux) (./basin.aux)
+(./conclusion.aux) (./xsecappendix.aux))
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 3514 strings out of 495059
- 46984 string characters out of 3182030
- 114785 words of memory out of 3000000
- 6585 multiletter control sequences out of 15000+200000
+ 3665 strings out of 495059
+ 49739 string characters out of 3182030
+ 116115 words of memory out of 3000000
+ 6702 multiletter control sequences out of 15000+200000
  11482 words of font info for 43 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,7n,32p,1583b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,32p,1383b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
@@ -691,10 +963,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (40 pages, 152903 bytes).
+Output written on main.pdf (48 pages, 51808696 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
+ 222 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
