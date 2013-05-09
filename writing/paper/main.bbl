@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -25,18 +25,6 @@ Amgalan Bayasgalan, James Jackson, and Dan McKenzie.
 \newblock \doi{10.1111/j.1365-246X.2005.02764.x}.
 \newblock URL
   \url{http://gji.oxfordjournals.org/cgi/doi/10.1111/j.1365-246X.2005.02764.x}.
-
-\bibitem[Burchfiel et~al.(2008)Burchfiel, Royden, van~der Hilst, Hager, Chen,
-  King, Li, L\"{u}, Yao, and Kirby]{Burchfiel2008}
-B.C. Burchfiel, L.H. Royden, R.D. van~der Hilst, B.H. Hager, Z.~Chen, R.W.
-  King, C.~Li, J.~L\"{u}, H.~Yao, and E.~Kirby.
-\newblock {A geological and geophysical context for the Wenchuan earthquake of
-  12 May 2008, Sichuan, People's Republic of China}.
-\newblock \emph{GSA Today}, 18\penalty0 (7):\penalty0 4, 2008.
-\newblock ISSN 1052-5173.
-\newblock \doi{10.1130/GSATG18A.1}.
-\newblock URL
-  \url{http://www.geosociety.org/gsatoday/archive/18/7/pdf/i1052-5173-18-7-4.pdf}.
 
 \bibitem[Busby and Ingersoll(1995)]{Busby1995}
 C~Busby and R~Ingersoll.
@@ -186,33 +174,6 @@ RA~Kurushin, A~Bayasgalan, M~Olziybat, B~Enhtuvshin, Peter Molnar,
 \newblock URL \url{http://geology.gsapubs.org/content/24/7/579.short
   http://specialpapers.gsapubs.org/content/320/1.abstract}.
 
-\bibitem[Lu et~al.(2008)Lu, Li, Zhang, and Niu]{Lu2008}
-Songnian Lu, Huaikun Li, Chuanlin Zhang, and Guanghua Niu.
-\newblock {Geological and geochronological evidence for the Precambrian
-  evolution of the Tarim Craton and surrounding continental fragments}.
-\newblock \emph{Precambrian Research}, 160\penalty0 (1-2):\penalty0 94--107,
-  January 2008.
-\newblock ISSN 03019268.
-\newblock \doi{10.1016/j.precamres.2007.04.025}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/S0301926807001581}.
-
-\bibitem[Maus(2010)]{Maus2010}
-S.~Maus.
-\newblock {An ellipsoidal harmonic representation of Earth's lithospheric
-  magnetic field to degree and order 720}.
-\newblock \emph{Geochemistry, Geophysics, Geosystems}, 11\penalty0
-  (6):\penalty0 n/a--n/a, June 2010.
-\newblock ISSN 15252027.
-\newblock \doi{10.1029/2010GC003026}.
-\newblock URL \url{http://doi.wiley.com/10.1029/2010GC003026}.
-
-\bibitem[Neil and Houseman(1997)]{Neil1997}
-EA~Neil and GA~Houseman.
-\newblock {Geodynamics of the Tarim Basin and the Tian Shan in central Asia}.
-\newblock \emph{Tectonics}, 1997.
-\newblock URL \url{http://www.agu.org/pubs/sample\_articles/bp/97TC01413.pdf}.
-
 \bibitem[Northrup et~al.(1995)Northrup, Royden, and Burchfiel]{Northrup1995}
 CJ~Northrup, LH~Royden, and BC~Burchfiel.
 \newblock {Motion of the Pacific plate relative to Eurasia and its potential
@@ -232,12 +193,6 @@ Emile~a. Okal.
 \newblock URL
   \url{http://linkinghub.elsevier.com/retrieve/pii/0031920176900273}.
 
-\bibitem[Pavlis et~al.(2008)Pavlis, Holmes, Kenyon, and Factor]{EGM2008}
-N.K. Pavlis, S.A. Holmes, S.C. Kenyon, and J.K. Factor.
-\newblock {An Earth Gravitational Model to Degree 2160: EGM2008}.
-\newblock \emph{presented at the 2008 General Assembly of the European
-  Geosciences Union, Vienna, Austria}, April 2008.
-
 \bibitem[Peltzer and Saucier(1996)]{Peltzer1996}
 Gilles Peltzer and F~Saucier.
 \newblock {Present-day kinematics of Asia derived from geologic fault rates}.
@@ -253,13 +208,6 @@ Fred Pollitz.
 \newblock ISSN 0148-0227.
 \newblock \doi{10.1029/2002JB002375}.
 \newblock URL \url{http://www.agu.org/pubs/crossref/2003/2002JB002375.shtml}.
-
-\bibitem[Royden et~al.(2008)Royden, Burchfiel, and van~der Hilst]{Royden2008}
-LH~Royden, BC~Burchfiel, and RD~van~der Hilst.
-\newblock {The geological evolution of the Tibetan Plateau}.
-\newblock \emph{Science}, 1054, 2008.
-\newblock \doi{10.1126/science.1155371}.
-\newblock URL \url{http://www.sciencemag.org/content/321/5892/1054.short}.
 
 \bibitem[Schellart and Lister(2005)]{Schellart2005}
 W.~Schellart and G.~Lister.

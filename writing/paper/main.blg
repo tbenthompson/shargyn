@@ -5,53 +5,51 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: background.aux
 A level-1 auxiliary file: structure.aux
-A level-1 auxiliary file: interpretation.aux
-A level-1 auxiliary file: geophysical.aux
-A level-1 auxiliary file: basin.aux
+A level-1 auxiliary file: discussion.aux
 A level-1 auxiliary file: conclusion.aux
 A level-1 auxiliary file: xsecappendix.aux
 The style file: plainnat.bst
 Database file #1: /home/tbent/projects/library.bib.bib
 Warning--empty publisher in Busby1995
-You've used 37 entries,
+You've used 31 entries,
             2773 wiz_defined-function locations,
-            920 strings with 15119 characters,
-and the built_in function-call counts, 19086 in all, are:
-= -- 1792
-> -- 1211
-< -- 20
-+ -- 409
-- -- 372
-* -- 1713
-:= -- 3067
-add.period$ -- 184
-call.type$ -- 37
-change.case$ -- 234
-chr.to.int$ -- 37
-cite$ -- 75
-duplicate$ -- 746
-empty$ -- 1368
-format.name$ -- 433
-if$ -- 3902
+            870 strings with 13513 characters,
+and the built_in function-call counts, 15945 in all, are:
+= -- 1509
+> -- 979
+< -- 18
++ -- 331
+- -- 300
+* -- 1423
+:= -- 2552
+add.period$ -- 154
+call.type$ -- 31
+change.case$ -- 192
+chr.to.int$ -- 31
+cite$ -- 63
+duplicate$ -- 625
+empty$ -- 1161
+format.name$ -- 353
+if$ -- 3266
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 38
-newline$ -- 266
-num.names$ -- 148
-pop$ -- 349
+missing$ -- 32
+newline$ -- 224
+num.names$ -- 124
+pop$ -- 284
 preamble$ -- 1
-purify$ -- 198
+purify$ -- 162
 quote$ -- 0
-skip$ -- 583
+skip$ -- 487
 stack$ -- 0
-substring$ -- 663
-swap$ -- 51
+substring$ -- 601
+swap$ -- 42
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 402
+type$ -- 336
 warning$ -- 1
-while$ -- 158
+while$ -- 135
 width$ -- 0
-write$ -- 626
+write$ -- 526
 (There was 1 warning)
