@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {3.3}Khantaishir Thrusts}{19}
 \contentsline {subsection}{\numberline {3.4}Bogd Fault and Termination Thrust Splays}{22}
 \contentsline {subsection}{\numberline {3.5}Tonhil Fault and Intersection Wedge Thrusts}{24}
-\contentsline {subsection}{\numberline {3.6}Shargyn Fault and Termination Thrust Splays}{26}
+\contentsline {subsection}{\numberline {3.6}Shargyn Fault and Termination Thrust Splays}{25}
 \contentsline {subsection}{\numberline {3.7}Earthquake Mechanisms and Locations}{30}
 \contentsline {subsection}{\numberline {3.8}Interpretation and Discussion}{32}
 \contentsline {section}{\numberline {4}Conclusion}{34}
