@@ -11,6 +11,6 @@
 \contentsline {subsection}{\numberline {3.5}Tonhil Fault and Intersection Wedge Thrusts}{24}
 \contentsline {subsection}{\numberline {3.6}Shargyn Fault and Termination Thrust Splays}{25}
 \contentsline {subsection}{\numberline {3.7}Earthquake Mechanisms and Locations}{30}
-\contentsline {subsection}{\numberline {3.8}Interpretation and Discussion}{32}
-\contentsline {section}{\numberline {4}Conclusion}{34}
+\contentsline {section}{\numberline {4}Interpretation and Discussion}{32}
+\contentsline {section}{\numberline {5}Conclusion}{34}
 \contentsline {section}{\numberline {1}Appendix A: More cross sections.}{35}
