@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{8}
+\contentsline {section}{\numberline {2}Background on Mongolian Active Deformation}{9}
+\contentsline {subsection}{\numberline {2.1}Mongolian Deformation in Context -- Asia}{9}
+\contentsline {subsection}{\numberline {2.2}Shargyn Basin}{12}
+\contentsline {subsection}{\numberline {2.3}Bedrock Geology}{14}
+\contentsline {section}{\numberline {3}Structural Evidence}{21}
+\contentsline {subsection}{\numberline {3.1}Remote Sensing}{21}
+\contentsline {subsection}{\numberline {3.2}Field Mapping}{21}
+\contentsline {subsection}{\numberline {3.3}Khantaishir Thrusts}{23}
+\contentsline {subsection}{\numberline {3.4}Bogd Fault and Termination Thrust Splays}{24}
+\contentsline {subsection}{\numberline {3.5}Tonhil Fault and Intersection Wedge Thrusts}{25}
+\contentsline {subsection}{\numberline {3.6}Shargyn Fault and Termination Thrust Splays}{27}
+\contentsline {subsection}{\numberline {3.7}Earthquake Mechanisms and Locations}{36}
+\contentsline {section}{\numberline {4}Interpretation and Discussion}{38}
+\contentsline {section}{\numberline {5}Conclusion}{41}
+\contentsline {section}{\numberline {A}Appendix A: More cross sections.}{42}

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: background.aux
+A level-1 auxiliary file: structure.aux
+A level-1 auxiliary file: discussion.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: xsecappendix.aux
+The style file: plainnat.bst
+Database file #1: /home/tbent/projects/library.bib.bib
+Warning--empty publisher in Busby1995
+You've used 31 entries,
+            2773 wiz_defined-function locations,
+            870 strings with 13513 characters,
+and the built_in function-call counts, 15945 in all, are:
+= -- 1509
+> -- 979
+< -- 18
++ -- 331
+- -- 300
+* -- 1423
+:= -- 2552
+add.period$ -- 154
+call.type$ -- 31
+change.case$ -- 192
+chr.to.int$ -- 31
+cite$ -- 63
+duplicate$ -- 625
+empty$ -- 1161
+format.name$ -- 353
+if$ -- 3266
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 32
+newline$ -- 224
+num.names$ -- 124
+pop$ -- 284
+preamble$ -- 1
+purify$ -- 162
+quote$ -- 0
+skip$ -- 487
+stack$ -- 0
+substring$ -- 601
+swap$ -- 42
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 336
+warning$ -- 1
+while$ -- 135
+width$ -- 0
+write$ -- 526
+(There was 1 warning)
