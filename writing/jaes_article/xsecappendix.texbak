@@ -1,0 +1,13 @@
+\section{Appendix A: More cross sections.}
+\begin{figure}[h!p!]
+  \centering
+  \includegraphics[width = 6in, height = 6.0in]{x1x2x3.png}
+  \caption{Cross section X1 across the Butara Thrust on the southern margin of the Shargyn Basin, cross section X2 across the final terminal thrust of the Bogd Fault, and cross section X3 examining the Tonhil Fault and northwestern corner of the intersection wedge.}
+  \label{x1x2x3}
+\end{figure}
+\begin{figure}[h!p!]
+  \centering
+  \includegraphics[width = 6in, height = 4.55in]{x4x5.png}
+  \caption{Cross section X4 through the Shargyn Fault at the southern margin of the Dariv Range and cross section X5 at the eastern margin of the Shargyn Basin.}
+  \label{x4x5}
+\end{figure}

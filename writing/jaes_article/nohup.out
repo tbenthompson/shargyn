@@ -1,0 +1,12 @@
+
+(evince:15427): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fddeee20630' has no handler with id `4368'
+
+(evince:15427): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7fddeee20630' has no handler with id `4369'
+
+(evince:24905): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7f013f2b8e30' has no handler with id `4368'
+
+(evince:24905): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7f013f2b8e30' has no handler with id `4369'
+
+(evince:14627): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7f707c2a6e30' has no handler with id `10187'
+
+(evince:14627): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.36.0/./gobject/gsignal.c:2593: instance `0x7f707c2a6e30' has no handler with id `10188'

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.23)  7 OCT 2013 03:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.9.23)  13 OCT 2013 14:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,6 +7,9 @@ entering extended mode
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
 aded.
+(./elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.20b: Elsevier Ltd
+\@bls=\dimen102
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -22,90 +25,14 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2008/03/30 v1.1d Input encoding file
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip43
-
-For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks16
-\ex@=\dimen103
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen104
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count88
-\leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count90
-\DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count92
-\c@MaxMatrixCols=\count93
-\dotsspace@=\muskip10
-\c@parentequation=\count94
-\dspbrk@lvl=\count95
-\tag@help=\toks17
-\row@=\count96
-\column@=\count97
-\maxfields@=\count98
-\andhelp@=\toks18
-\eqnshift@=\dimen106
-\alignsep@=\dimen107
-\tagshift@=\dimen108
-\tagwidth@=\dimen109
-\totwidth@=\dimen110
-\lineht@=\dimen111
-\@envbody=\toks19
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
+\bibindent=\dimen103
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
@@ -127,44 +54,52 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count99
+\Gread@gobject=\count87
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
 )
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (./main.spl)
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip46
-\bibsep=\skip47
+\bibhang=\skip45
+\bibsep=\skip46
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count100
+\c@NAT@ctr=\count94
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+\splwrite=\write3
+\openout3 = `main.spl'.
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count101
-\Gm@cntv=\count102
-\c@Gm@tempcnt=\count103
-\Gm@bindingoffset=\dimen114
-\Gm@wd@mp=\dimen115
-\Gm@odd@mp=\dimen116
-\Gm@even@mp=\dimen117
-\Gm@layoutwidth=\dimen118
-\Gm@layoutheight=\dimen119
-\Gm@layouthoffset=\dimen120
-\Gm@layoutvoffset=\dimen121
-\Gm@dimlist=\toks22
+\appnamewidth=\dimen109
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -174,45 +109,55 @@ Package: caption 2012/02/19 v3.2f Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen122
-\captionmargin@=\dimen123
-\captionwidth=\dimen124
-\caption@indent=\dimen125
-\caption@parindent=\dimen126
-\caption@hangindent=\dimen127
+\captionmargin=\dimen110
+\captionmargin@=\dimen111
+\captionwidth=\dimen112
+\caption@indent=\dimen113
+\caption@parindent=\dimen114
+\caption@hangindent=\dimen115
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
 )
-\c@ContinuedFloat=\count104
-) (./main.aux
-(./abstract.aux) (./intro.aux) (./background.aux) (./structure.aux)
-(./discussion.aux) (./conclusion.aux) (./xsecappendix.aux))
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \footnotesize \sbox \@tempboxa {#1: #2}\ifdim \wd \@tempboxa >\hsize #1: #2\p
+ar \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\
+fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count95
+) (./main.aux (./abstract.aux) (./intro.aux) (./background.aux)
+(./structure.aux) (./discussion.aux) (./conclusion.aux) (./xsecappendix.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen128
-\scratchbox=\box28
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen129
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count96
+\scratchdimen=\dimen116
+\scratchbox=\box30
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen117
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -220,6 +165,10 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -257,520 +206,800 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 26.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 26.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex) [2
 
-] (./main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+(./abstract.tex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+ [1
 
 
-(./main.lof [3
 
-] [4] [5] [6])
-\tf@lof=\write4
-\openout4 = `main.lof'.
 
- [7]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
 \openout2 = `intro.aux'.
 
- (./intro.tex) [8
+ (./intro.tex) [3
 
 
 ]
 \openout2 = `background.aux'.
 
  (./background.tex
-<asia.png, id=34, 501.5538pt x 430.0065pt>
+<asia.png, id=17, 501.5538pt x 430.0065pt>
 File: asia.png Graphic file (type png)
  <use asia.png>
 Package pdftex.def Info: asia.png used on input line 8.
 (pdftex.def)             Requested size: 433.63144pt x 368.57797pt.
 
-
-LaTeX Warning: Float too large for page by 40.11522pt on input line 11.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9
+Overfull \hbox (43.63144pt too wide) in paragraph at lines 8--9
+ [][] 
+ []
 
 
-] <broad.png, id=39, 446.3877pt x 260.6538pt>
+LaTeX Warning: Float too large for page by 214.03767pt on input line 11.
+
+[4
+
+
+] [5 <./asia.png>] [6] <broad.png, id=30, 446.3877pt x 260.6538pt>
 File: broad.png Graphic file (type png)
- <use broad.png>
+
+<use broad.png>
 Package pdftex.def Info: broad.png used on input line 23.
 (pdftex.def)             Requested size: 433.629pt x 245.7265pt.
 
+Overfull \hbox (43.629pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[7] [8 <./broad.png>] [9]
 
-[10] [11] <intro.png, id=46, 565.6332pt x 339.669pt>
+Package natbib Warning: Citation `Yarmolyuk2011' on page 10 undefined on input 
+line 36.
+
+<intro.png, id=42, 565.6332pt x 339.669pt>
 File: intro.png Graphic file (type png)
  <use intro.png>
 Package pdftex.def Info: intro.png used on input line 40.
 (pdftex.def)             Requested size: 433.62285pt x 260.17764pt.
 
+Overfull \hbox (43.62285pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<basins.png, id=47, 401.5803pt x 506.1309pt>
+<basins.png, id=43, 401.3394pt x 332.9238pt>
 File: basins.png Graphic file (type png)
  <use basins.png>
 Package pdftex.def Info: basins.png used on input line 47.
-(pdftex.def)             Requested size: 325.22311pt x 409.7707pt.
+(pdftex.def)             Requested size: 361.36746pt x 299.93344pt.
 
+Overfull \hbox (3.47194pt too wide) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/12 A va-ri-ety of fea-tures form in strike-slip and com-pres-sio
+nal set-tings. Futher-
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[10] [11 <./intro.png>] [12 <./basins.png>] [13]
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
- [12] [13]
-<bedrockfigure.png, id=56, 337.5009pt x 253.1859pt>
+Package natbib Warning: Citation `Badarch2002' on page 14 undefined on input li
+ne 61.
+
+[14] <bedrockfigure.png, id=62, 337.5009pt x 253.1859pt>
 File: bedrockfigure.png Graphic file (type png)
- <use bedrockfigure.png>
-Package pdftex.def Info: bedrockfigure.png used on input line 72.
-(pdftex.def)             Requested size: 462.5228pt x 325.25128pt.
 
+<use bedrockfigure.png>
+Package pdftex.def Info: bedrockfigure.png used on input line 65.
+(pdftex.def)             Requested size: 433.61673pt x 325.25128pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (43.61673pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
 
-<grain.png, id=57, 446.3877pt x 260.6538pt>
+<grain.png, id=63, 446.3877pt x 260.6538pt>
 File: grain.png Graphic file (type png)
  <use grain.png>
-Package pdftex.def Info: grain.png used on input line 81.
+Package pdftex.def Info: grain.png used on input line 74.
 (pdftex.def)             Requested size: 433.629pt x 252.95317pt.
 
+Overfull \hbox (43.629pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] [15 <./asia.png>] [16 <./broad.png>] [17 <./intro.png>] [18 <./basins.png>
-] [19 <./bedrockfigure.png>] [20 <./grain.png>])
+[15] [16 <./bedrockfigure.png>] [17 <./grain.png>])
 \openout2 = `structure.aux'.
 
- (./structure.tex [21
+ (./structure.tex [18
 
 
 
 ]
-<fault_map.png, id=89, 589.7232pt x 339.669pt>
+<fault_map.png, id=78, 589.7232pt x 339.669pt>
 File: fault_map.png Graphic file (type png)
  <use fault_map.png>
 Package pdftex.def Info: fault_map.png used on input line 14.
-(pdftex.def)             Requested size: 433.6168pt x 303.54317pt.
+(pdftex.def)             Requested size: 433.6168pt x 250.06058pt.
 
-<khantaishir_joint.png, id=90, 560.5743pt x 754.7397pt>
+Overfull \hbox (43.6168pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+<khantaishir_joint.png, id=79, 503.2401pt x 727.2771pt>
 File: khantaishir_joint.png Graphic file (type png)
 
 <use khantaishir_joint.png>
 Package pdftex.def Info: khantaishir_joint.png used on input line 24.
-(pdftex.def)             Requested size: 433.62799pt x 583.24734pt.
+(pdftex.def)             Requested size: 433.62pt x 626.67793pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
 
 
-LaTeX Warning: Float too large for page by 14.80977pt on input line 26.
+LaTeX Warning: Float too large for page by 160.17036pt on input line 26.
 
-[22 <./fault_map.png>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<faultscollage.png, id=95, 775.698pt x 880.2486pt>
+[19] [20 <./fault_map.png>] [21 <./khantaishir_joint.png>]
+<faultscollage.png, id=92, 775.4571pt x 880.2486pt>
 File: faultscollage.png Graphic file (type png)
  <use faultscollage.png>
 Package pdftex.def Info: faultscollage.png used on input line 32.
-(pdftex.def)             Requested size: 289.07509pt x 327.39268pt.
+(pdftex.def)             Requested size: 289.07999pt x 328.14485pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[23] <haliun_joint.png, id=100, 475.5366pt x 538.6524pt>
+[22] [23 <./faultscollage.png>]
+<haliun_joint.png, id=101, 456.5055pt x 517.4532pt>
 File: haliun_joint.png Graphic file (type png)
+ <use haliun_joint.png>
+Package pdftex.def Info: haliun_joint.png used on input line 46.
+(pdftex.def)             Requested size: 433.62pt x 491.51457pt.
 
-<use haliun_joint.png>
-Package pdftex.def Info: haliun_joint.png used on input line 47.
-(pdftex.def)             Requested size: 433.61696pt x 421.34718pt.
+Overfull \hbox (43.62pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Float too large for page by 25.007pt on input line 49.
 
-[24] <intersection_wedge_joint.png, id=104, 514.8033pt x 655.7298pt>
+[24] [25 <./haliun_joint.png>] [26]
+<intersection_wedge_joint.png, id=113, 514.0806pt x 655.7298pt>
 File: intersection_wedge_joint.png Graphic file (type png)
 
 <use intersection_wedge_joint.png>
-Package pdftex.def Info: intersection_wedge_joint.png used on input line 65.
-(pdftex.def)             Requested size: 361.35747pt x 482.76106pt.
+Package pdftex.def Info: intersection_wedge_joint.png used on input line 64.
+(pdftex.def)             Requested size: 361.34999pt x 460.9288pt.
 
 
-LaTeX Warning: Float too large for page by 34.3109pt on input line 68.
+LaTeX Warning: Float too large for page by 162.40361pt on input line 67.
 
-[25] [26] <lil_dariv_joint.png, id=112, 503.481pt x 539.8569pt>
+[27] [28] <lil_dariv_joint.png, id=120, 478.1865pt x 534.798pt>
 File: lil_dariv_joint.png Graphic file (type png)
 
 <use lil_dariv_joint.png>
-Package pdftex.def Info: lil_dariv_joint.png used on input line 86.
-(pdftex.def)             Requested size: 433.62286pt x 476.98666pt.
+Package pdftex.def Info: lil_dariv_joint.png used on input line 85.
+(pdftex.def)             Requested size: 433.62pt x 484.97775pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 85--86
+ [][] 
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Float too large for page by 18.47018pt on input line 88.
 
-[27] [28 <./khantaishir_joint.png>] [29 <./faultscollage.png>] [30 <./haliun_jo
-int.png>] [31 <./intersection_wedge_joint.png>] [32 <./lil_dariv_joint.png>]
-[33
+[29] [30 <./intersection_wedge_joint.png>] [31 <./lil_dariv_joint.png>]
+[32
 
-] <neshargyn_joint.png, id=140, 538.6524pt x 527.3301pt>
+] <neshargyn_joint.png, id=136, 392.1852pt x 479.1501pt>
 File: neshargyn_joint.png Graphic file (type png)
 
 <use neshargyn_joint.png>
-Package pdftex.def Info: neshargyn_joint.png used on input line 99.
-(pdftex.def)             Requested size: 433.63483pt x 422.79pt.
- [34 <./neshargyn_joint.png>]
-<shargyn_fault_streams.png, id=145, 553.5882pt x 293.6571pt>
+Package pdftex.def Info: neshargyn_joint.png used on input line 98.
+(pdftex.def)             Requested size: 433.62pt x 529.80844pt.
+
+Overfull \hbox (43.62pt too wide) in paragraph at lines 98--99
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 63.30087pt on input line 101.
+
+<shargyn_fault_streams.png, id=137, 568.524pt x 293.6571pt>
 File: shargyn_fault_streams.png Graphic file (type png)
 
 <use shargyn_fault_streams.png>
-Package pdftex.def Info: shargyn_fault_streams.png used on input line 108.
-(pdftex.def)             Requested size: 289.09233pt x 144.53848pt.
- [35 <./shargyn_fault_streams.png>]
-<eq_locs.png, id=149, 589.9641pt x 340.1508pt>
+Package pdftex.def Info: shargyn_fault_streams.png used on input line 107.
+(pdftex.def)             Requested size: 289.08458pt x 144.53848pt.
+ [33] [34 <./neshargyn_joint.png>]
+<eq_locs.png, id=145, 589.9641pt x 340.1508pt>
 File: eq_locs.png Graphic file (type png)
  <use eq_locs.png>
-Package pdftex.def Info: eq_locs.png used on input line 122.
-(pdftex.def)             Requested size: 361.36292pt x 208.14046pt.
+Package pdftex.def Info: eq_locs.png used on input line 120.
+(pdftex.def)             Requested size: 433.62pt x 250.01561pt.
 
+Overfull \hbox (43.62pt too wide) in paragraph at lines 120--121
+ [][] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [36] [37 <./eq_locs.png>]
+[35]) [36] [37] [38 <./shargyn_fault_streams.png>] [39 <./eq_locs.png>]
 \openout2 = `discussion.aux'.
 
- (./discussion.tex
-<schematic.png, id=157, 487.8225pt x 265.2309pt>
+
+(./discussion.tex <schematic.png, id=162, 487.8225pt x 264.99pt>
 File: schematic.png Graphic file (type png)
- <use schematic.png>
+
+<use schematic.png>
 Package pdftex.def Info: schematic.png used on input line 6.
-(pdftex.def)             Requested size: 433.62473pt x 252.9554pt.
+(pdftex.def)             Requested size: 433.62473pt x 252.94804pt.
+
+Overfull \hbox (43.62473pt too wide) in paragraph at lines 6--7
+ [][] 
+ []
+
+[40
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[38
-
-
-] [39 <./schematic.png>]) [40]
+] [41 <./schematic.png>] [42]) [43]
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex) [41
+ (./conclusion.tex) [44
 
 
 ]
 \openout2 = `xsecappendix.aux'.
 
- (./xsecappendix.tex
-<x1x2x3.png, id=171, 2027.575pt x 2089.8075pt>
+
+(./xsecappendix.tex <x1x2x3.png, id=180, 2027.575pt x 2089.8075pt>
 File: x1x2x3.png Graphic file (type png)
- <use x1x2x3.png>
+
+<use x1x2x3.png>
 Package pdftex.def Info: x1x2x3.png used on input line 4.
 (pdftex.def)             Requested size: 433.59976pt x 433.61104pt.
 
-<x4x5.png, id=172, 2027.575pt x 1537.745pt>
+Overfull \hbox (43.59976pt too wide) in paragraph at lines 4--5
+ [][] 
+ []
+
+<x4x5.png, id=181, 2027.575pt x 1539.7525pt>
 File: x4x5.png Graphic file (type png)
  <use x4x5.png>
 Package pdftex.def Info: x4x5.png used on input line 10.
-(pdftex.def)             Requested size: 433.59976pt x 328.82545pt.
+(pdftex.def)             Requested size: 433.59976pt x 328.83183pt.
+
+Overfull \hbox (43.59976pt too wide) in paragraph at lines 10--11
+ [][] 
+ []
+
+) [45
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [42
-
-
- <./x1x2x3.png>] [43 <./x4x5.png>] (./main.bbl
-Underfull \hbox (badness 4181) in paragraph at lines 30--35
-[]\OT1/cmr/m/n/12 C Busby and R In-ger-soll.  \OT1/cmr/m/it/12 Tec-ton-ics of s
-ed-i-men-tary basins\OT1/cmr/m/n/12 .  1995.  URL
+] [46 <./x1x2x3.png>] [47 <./x4x5.png>] (./main.bbl
+Underfull \hbox (badness 2050) in paragraph at lines 19--28
+\OT1/cmr/m/n/12 quake source pa-ram-e-ters, grav-ity and GPS mea-sure-ments.  \
+OT1/cmr/m/it/12 Geo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-[]\OT1/cmr/m/n/12 AR Car-roll, L Yun-hai, and SA Gra-ham.  Jung-gar basin, nort
-h-west
+Underfull \hbox (badness 5302) in paragraph at lines 19--28
+\OT1/cmr/m/it/12 phys-i-cal Jour-nal In-ter-na-tional\OT1/cmr/m/n/12 , 163(3):1
+151--1179, De-cem-ber 2005.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
-\OT1/cmr/m/n/12 China: trapped late Pa-le-o-zoic ocean.  \OT1/cmr/m/it/12 Tecto
-no-physics\OT1/cmr/m/n/12 , 1990.  URL
+Underfull \hbox (badness 3690) in paragraph at lines 19--28
+\OT1/cmr/m/n/12 ISSN 0956540X.  doi: 10.1111/j.1365-246X.2005.02764.x.  URL
  []
 
-[44
+
+Overfull \hbox (57.26395pt too wide) in paragraph at lines 19--28
+\OT1/cmtt/m/n/12 http://gji.oxfordjournals.org/cgi/doi/10.1111/j.1365-246X.2005
+.02764.x\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 30--35
+\OT1/cmtt/m/n/12 http://bulletin.geoscienceworld.org/content/100/11/1704.short\
+OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 37--44
+[]\OT1/cmr/m/n/12 Eric Calais.  GPS mea-sure-ments of crustal de-for-ma-tion in
+ the
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 37--44
+\OT1/cmr/m/n/12 Baikal-Mongolia area (1994-2002): Im-pli-ca-tions for cur-rent 
+kine-
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 37--44
+\OT1/cmr/m/n/12 mat-ics of Asia.  \OT1/cmr/m/it/12 Jour-nal of Geo-phys-i-cal R
+e-search\OT1/cmr/m/n/12 , 108(B10),
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 37--44
+\OT1/cmr/m/n/12 2003.  ISSN 0148-0227.  doi: 10.1029/2002JB002373.  URL
+ []
+
+
+Overfull \hbox (26.38893pt too wide) in paragraph at lines 46--51
+\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/0040195190900
+04R\OT1/cmr/m/n/12 . 
+ []
+
+[48
 
 ]
-Underfull \hbox (badness 3219) in paragraph at lines 73--81
-[]\OT1/cmr/m/n/12 D. Cun-ning-ham.  Tec-tonic set-ting and struc-tural evo-lu-t
-ion of the Late Ceno-
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
+[]\OT1/cmr/m/n/12 PA Cowie and CH Scholz.  Displacement-length scal-ing re-la-
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 73--81
-\OT1/cmr/m/n/12 zoic Gobi Al-tai oro-gen.  \OT1/cmr/m/it/12 Ge-o-log-i-cal So-c
-i-ety, Lon-don, Spe-cial Pub-li-ca-tions\OT1/cmr/m/n/12 , 338
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
+\OT1/cmr/m/n/12 tion-ship for faults: data syn-the-sis and dis-cus-sion.  \OT1/
+cmr/m/it/12 Jour-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 73--81
-\OT1/cmr/m/n/12 (1):361--387, Septem-ber 2010.  ISSN 0305-8719.  doi: 10.1144/S
-P338.17.  URL
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
+\OT1/cmr/m/it/12 nal of Struc-tural Ge-ol-ogy\OT1/cmr/m/n/12 , 14(10):1149--115
+6, 1992.  URL
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 91--100
+Overfull \hbox (26.38893pt too wide) in paragraph at lines 53--60
+\OT1/cmtt/m/n/12 http://www.sciencedirect.com/science/article/pii/0191814192900
+666\OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 62--71
+[]\OT1/cmr/m/n/12 D Cun-ning-ham.  Ac-tive in-tra-con-ti-nen-tal trans-pres-sio
+nal moun-tain
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 62--71
+\OT1/cmr/m/n/12 build-ing in the Mon-go-lian Al-tai: Defin-ing a new class of o
+ro-
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 62--71
+\OT1/cmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/S0012821X05005881\
+OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 83--88
+[]\OT1/cmr/m/n/12 D Cun-ning-ham and LA Owen.  Struc-tural frame-work of a ma-
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 83--88
+\OT1/cmr/m/n/12 Shan, China.  \OT1/cmr/m/it/12 Jour-nal of the ...\OT1/cmr/m/n/
+12 , 160:575--590, 2003.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--100
 []\OT1/cmr/m/n/12 Dickson Cun-ning-ham, Sarah Davies, and Gom-bo-suren Badarch.
-  Crustal ar-chi-tec-
+
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 91--100
-\OT1/cmr/m/n/12 ture and ac-tive growth of the Su-tai Range, west-ern Mon-go-li
-a: a ma-jor in-
+Underfull \hbox (badness 1533) in paragraph at lines 91--100
+\OT1/cmr/m/n/12 Crustal ar-chi-tec-ture and ac-tive growth of the Su-tai Range,
+ west-
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 102--108
-[]\OT1/cmr/m/n/12 P Davy and PR Cob-bold.  In-den-ta-tion tec-ton-ics in na-tur
-e and ex-per-i-ment.
+Underfull \hbox (badness 7888) in paragraph at lines 91--100
+\OT1/cmr/m/n/12 ern Mon-go-lia: a ma-jor in-tra-con-ti-nen-tal, in-traplate re-
+strain-ing
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 102--108
-\OT1/cmr/m/n/12 1. Ex-per-i-ments scaled for grav-ity.  \OT1/cmr/m/it/12 Bull. 
-Geol. Inst. Up-p-sala\OT1/cmr/m/n/12 , 1988.  URL
+Underfull \hbox (badness 4441) in paragraph at lines 91--100
+\OT1/cmr/m/n/12 bend.  \OT1/cmr/m/it/12 Jour-nal of Geo-dy-nam-ics\OT1/cmr/m/n/
+12 , 36(1-2):169--191, Au-gust 2003.
  []
 
 
-Overfull \hbox (101.99698pt too wide) in paragraph at lines 102--108
+Underfull \hbox (badness 7326) in paragraph at lines 91--100
+\OT1/cmr/m/n/12 ISSN 02643707.  doi: 10.1016/S0264-3707(03)00046-2.  URL
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 91--100
+\OT1/cmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/S0264370703000462\
+OT1/cmr/m/n/12 . 
+ []
+
+[49]
+Overfull \hbox (181.752pt too wide) in paragraph at lines 102--108
 \OT1/cmtt/m/n/12 http://blogperso.univ-rennes1.fr/philippe.davy/public/pdf/Davy
 []Cobbold[]Bull.Upsala[]1988.pdf\OT1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 110--116
-[]\OT1/cmr/m/n/12 AH Di-jk-stra and FM Brouwer.  Late Neo-pro-tero-zoic proto-a
-rc ocean crust in
- []
-
-
-Underfull \hbox (badness 2970) in paragraph at lines 110--116
-\OT1/cmr/m/n/12 o-lite.  \OT1/cmr/m/it/12 Jour-nal of the Ge-o-log-i-cal So-ci-
-ety, Lon-don\OT1/cmr/m/n/12 , 163:363--373, 2006.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--125
+Underfull \hbox (badness 2717) in paragraph at lines 118--125
 []\OT1/cmr/m/n/12 P. Eng-land and P. Mol-nar.  Ac-tive De-for-ma-tion of Asia: 
 From
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--125
+Underfull \hbox (badness 5359) in paragraph at lines 118--125
 \OT1/cmr/m/n/12 Kine-mat-ics to Dy-nam-ics.  \OT1/cmr/m/it/12 Sci-ence\OT1/cmr/
 m/n/12 , 278(5338):647--650, Oc-to-ber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--125
+Underfull \hbox (badness 1308) in paragraph at lines 118--125
 \OT1/cmr/m/n/12 1997.  ISSN 00368075.  doi: 10.1126/sci-ence.278.5338.647.  URL
 
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 168--176
-[]\OT1/cmr/m/n/12 RA Ku-rushin, A Bayas-galan, M Olziy-bat, B En-htu-vshin, Pe-
-ter Mol-nar,
+
+Overfull \hbox (7.86392pt too wide) in paragraph at lines 118--125
+\OT1/cmtt/m/n/12 http://www.sciencemag.org/cgi/doi/10.1126/science.278.5338.647
+\OT1/cmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 168--176
-\OT1/cmr/m/n/12 C Ba-yarsay-han, Ken-neth W Hud-nut, and Jian Lin.  The sur-fac
-e rup-
+Underfull \hbox (badness 6526) in paragraph at lines 129--141
+\OT1/cmr/m/n/12 Car-son, Nicholas E. Bader, Tsol-mon Adiya, Er-denebat Bolor,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--176
-\OT1/cmr/m/n/12 ture of the 1957 Gobi-Altay, Mon-go-lia, earth-quake.  \OT1/cmr
-/m/it/12 Ge-o-log-i-cal So-ci-
+Underfull \hbox (badness 2547) in paragraph at lines 129--141
+\OT1/cmr/m/n/12 Chelsea C. Dur-fey, Jar-gal Ot-gonkhuu, Jodi Spra-j-car, Kristi
+n E.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--176
-\OT1/cmr/m/it/12 ety of Amer-i-can Spe-cial Pa-per\OT1/cmr/m/n/12 , 320:1--144,
- 1998.  doi: 10.1130/0-8137-
+Underfull \hbox (badness 1199) in paragraph at lines 129--141
+\OT1/cmr/m/n/12 Sweeney, Richard T. Walker, Tina L. Marstel-lar, and Laura Gre-
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--176
-\OT1/cmr/m/n/12 2320-5.1.  URL \OT1/cmtt/m/n/12 http://geology.gsapubs.org/cont
-ent/24/7/579.short
+Overfull \hbox (57.26395pt too wide) in paragraph at lines 129--141
+\OT1/cmtt/m/n/12 http://gji.oxfordjournals.org/cgi/doi/10.1111/j.1365-246X.2010
+.04826.x\OT1/cmr/m/n/12 . 
  []
 
-[46]
-Underfull \hbox (badness 1377) in paragraph at lines 178--184
-[]\OT1/cmr/m/n/12 CJ Northrup, LH Roy-den, and BC Burch-fiel.  Mo-tion of the P
-a-cific plate rel-a-
- []
-
-
-Underfull \hbox (badness 1635) in paragraph at lines 197--201
-[]\OT1/cmr/m/n/12 Gilles Peltzer and F Saucier.  Present-day kine-mat-ics of As
-ia de-rived from ge-o-
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+[]\OT1/cmr/m/n/12 G House-man and Philip Eng-land.  Crustal thick-en-ing ver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--211
-[]\OT1/cmr/m/n/12 Fred Pol-litz.  Fault in-ter-ac-tion and stress trig-ger-ing 
-of twen-ti-eth cen-
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+\OT1/cmr/m/n/12 sus lat-eral ex-pul-sion in the In-dian Asian con-ti-nen-tal co
+l-li-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--211
-\OT1/cmr/m/n/12 tury earth-quakes in Mon-go-lia.  \OT1/cmr/m/it/12 Jour-nal of 
-Geo-phys-i-cal Re-search\OT1/cmr/m/n/12 , 108
+Underfull \hbox (badness 4819) in paragraph at lines 152--157
+\OT1/cmr/m/n/12 sion.  \OT1/cmr/m/it/12 Jour-nal of Geo-phys-i-cal Re-search\OT
+1/cmr/m/n/12 , 98(93), 1993.  URL
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 203--211
-\OT1/cmr/m/n/12 (B10):2503, 2003.  ISSN 0148-0227.  doi: 10.1029/2002JB002375. 
- URL
+Underfull \hbox (badness 10000) in paragraph at lines 159--165
+[]\OT1/cmr/m/n/12 JP Howard and WD Cun-ning-ham.  Com-pet-ing pro-cesses of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
-[]\OT1/cmr/m/n/12 W. Schel-lart and G. Lis-ter.  The role of the East Asian ac-
-tive mar-
+Underfull \hbox (badness 10000) in paragraph at lines 159--165
+\OT1/cmr/m/n/12 clas-tic de-po-si-tion and com-part-men-tal-ized in-ver-sion in
+ an ac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
-\OT1/cmr/m/n/12 gin in widespread ex-ten-sional and strike-slip de-for-ma-tion 
-in East Asia.
+Underfull \hbox (badness 4940) in paragraph at lines 159--165
+\OT1/cmr/m/n/12 tively evolv-ing trans-pres-sional basin, west-ern Mon-go-lia. 
+ \OT1/cmr/m/it/12 Jour-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
-\OT1/cmr/m/it/12 Jour-nal of the Ge-o-log-i-cal So-ci-ety, Lon-don\OT1/cmr/m/n/
-12 , 162:959--972, 2005.  URL
- []
-
-[47]
-Underfull \hbox (badness 1931) in paragraph at lines 247--255
-\OT1/cmr/m/n/12 tains of cen-tral Mon-go-lia.  \OT1/cmr/m/it/12 Geo-phys-i-cal 
-Jour-nal In-ter-na-tional\OT1/cmr/m/n/12 , 174(3):1121--1137,
+Underfull \hbox (badness 2012) in paragraph at lines 159--165
+\OT1/cmr/m/it/12 nal of the Ge-o-log-i-cal So-ci-ety, Lon-don\OT1/cmr/m/n/12 , 
+163:657--670, 2006.  URL
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 258--268
+Underfull \hbox (badness 2726) in paragraph at lines 168--176
+\OT1/cmr/m/n/12 5.1.  URL \OT1/cmtt/m/n/12 http://geology.gsapubs.org/content/2
+4/7/579.short
+ []
+
+[51]
+Underfull \hbox (badness 4859) in paragraph at lines 178--184
+[]\OT1/cmr/m/n/12 CJ Northrup, LH Roy-den, and BC Burch-fiel.  Mo-tion of the
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 178--184
+\OT1/cmr/m/n/12 Pa-cific plate rel-a-tive to Eura-sia and its po-ten-tial re-la
+-tion to
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 178--184
+\OT1/cmr/m/n/12 Ceno-zoic ex-ten-sion along the east-ern mar-gin of Eura-sia.  
+\OT1/cmr/m/it/12 Ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+\OT1/cmr/m/it/12 ol-ogy\OT1/cmr/m/n/12 , 1995.  doi: 10.1130/0091-7613(1995)023
+<0719.  URL
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 186--195
+[]\OT1/cmr/m/n/12 Emile a. Okal.  A surface-wave in-ves-ti-ga-tion of the rup-t
+ure mech-a-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 186--195
+\OT1/cmr/m/n/12 nism of the Gobi-Altai (De-cem-ber 4, 1957) earth-quake.  \OT1/
+cmr/m/it/12 Physics
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 186--195
+\OT1/cmr/m/it/12 of the Earth and Plan-e-tary In-te-ri-ors\OT1/cmr/m/n/12 , 12(
+4):319--328, Septem-ber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+[]\OT1/cmr/m/n/12 Gilles Peltzer and F Saucier.  Present-day kine-mat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+\OT1/cmr/m/n/12 ics of Asia de-rived from ge-o-logic fault rates.  \OT1/cmr/m/i
+t/12 Jour-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+\OT1/cmr/m/it/12 nal of Geo-phys-i-cal Re-search: Solid ...\OT1/cmr/m/n/12 , 10
+, 1996.  URL
+ []
+
+[52]
+Underfull \hbox (badness 1946) in paragraph at lines 221--230
+[]\OT1/cmr/m/n/12 W.P. Schel-lart.  In-flu-ence of the sub-duct-ing plate ve-lo
+c-ity on the
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 221--230
+\OT1/cmr/m/n/12 ge-om-e-try of the slab and mi-gra-tion of the sub-duc-tion hin
+ge.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--230
+\OT1/cmr/m/it/12 Earth and Plan-e-tary Sci-ence Let-ters\OT1/cmr/m/n/12 , 231(3
+-4):197--219, March
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 221--230
+\OT1/cmr/m/n/12 2005.  ISSN 0012821X.  doi: 10.1016/j.epsl.2004.12.019.  URL
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 221--230
+\OT1/cmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/S0012821X0400737X\
+OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+[]\OT1/cmr/m/n/12 P Tap-pon-nier and P Mol-nar.  Ac-tive fault-ing and Ceno-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
+\OT1/cmr/m/n/12 zoic tec-ton-ics of the Tien Shan, Mon-go-lia, and Baykal re-
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 232--238
+\OT1/cmr/m/n/12 gions.  \OT1/cmr/m/it/12 Jour-nal of Geo-phys-i-cal Re-search\O
+T1/cmr/m/n/12 , 84(9), 1979.  URL
+ []
+
+
+Overfull \hbox (14.03893pt too wide) in paragraph at lines 232--238
+\OT1/cmtt/m/n/12 http://onlinelibrary.wiley.com/doi/10.1029/JB084iB07p03425/ful
+l\OT1/cmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 240--245
+[]\OT1/cmr/m/n/12 P Tap-pon-nier, G Peltzer, and AY Le Dain.  Prop-a-gat-ing ex
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--245
+\OT1/cmr/m/n/12 tru-sion tec-ton-ics in Asia: New in-sights from sim-ple ex-per
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--245
+\OT1/cmr/m/n/12 i-ments with plas-ticine.  \OT1/cmr/m/it/12 Ge-ol-ogy\OT1/cmr/m
+/n/12 , 10:611--616, 1982.  URL
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 247--255
+[]\OT1/cmr/m/n/12 R. T. Walker, E. Molor, M. Fox, and a. Bayas-galan.  Ac-tive 
+tec-
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 247--255
+\OT1/cmr/m/n/12 ton-ics of an ap-par-ently aseis-mic re-gion: dis-tributed ac-t
+ive strike-
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 247--255
+\OT1/cmr/m/it/12 phys-i-cal Jour-nal In-ter-na-tional\OT1/cmr/m/n/12 , 174(3):1
+121--1137, Septem-ber 2008.
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 247--255
+\OT1/cmr/m/n/12 ISSN 0956540X.  doi: 10.1111/j.1365-246X.2008.03874.x.  URL
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 258--268
 []\OT1/cmr/m/n/12 R.T. Walker, a. Bayas-galan, R. Car-son, R. Ha-zlett, L. Mc-C
-arthy, J. Mis-
+arthy,
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 258--268
-\OT1/cmr/m/n/12 chler, E. Molor, P. Sarantset-seg, L. Smith, B. Tsogt-badrakh, 
-and G. Tsol-
+Underfull \hbox (badness 5741) in paragraph at lines 258--268
+\OT1/cmr/m/n/12 J. Mis-chler, E. Molor, P. Sarantset-seg, L. Smith, B. Tsogt-
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 258--268
-\OT1/cmr/m/n/12 mon.  Ge-o-mor-phol-ogy and struc-ture of the Jid right-lateral
- strike-slip fault
+Underfull \hbox (badness 1484) in paragraph at lines 258--268
+\OT1/cmr/m/n/12 badrakh, and G. Tsol-mon.  Ge-o-mor-phol-ogy and struc-ture of 
+the
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 258--268
-\OT1/cmr/m/n/12 in the Mon-go-lian Al-tay moun-tains.  \OT1/cmr/m/it/12 Jour-na
-l of Struc-tural Ge-ol-ogy\OT1/cmr/m/n/12 , 28(9):1607--
+Underfull \hbox (badness 4441) in paragraph at lines 258--268
+\OT1/cmr/m/n/12 Jid right-lateral strike-slip fault in the Mon-go-lian Al-tay m
+oun-
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 258--268
-\OT1/cmr/m/n/12 1622, Septem-ber 2006.  ISSN 01918141.  doi: 10.1016/j.jsg.2006
-.04.007.  URL
+Underfull \hbox (badness 3861) in paragraph at lines 258--268
+\OT1/cmr/m/n/12 tains.  \OT1/cmr/m/it/12 Jour-nal of Struc-tural Ge-ol-ogy\OT1/
+cmr/m/n/12 , 28(9):1607--1622, Septem-
  []
 
-[48]) [49] (./main.aux (./abstract.aux) (./intro.aux) (./background.aux)
-(./structure.aux) (./discussion.aux) (./conclusion.aux) (./xsecappendix.aux)) )
- 
+
+Underfull \hbox (badness 1009) in paragraph at lines 258--268
+\OT1/cmr/m/n/12 ber 2006.  ISSN 01918141.  doi: 10.1016/j.jsg.2006.04.007.  URL
+
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 258--268
+\OT1/cmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/S0191814106001179\
+OT1/cmr/m/n/12 . 
+ []
+
+[53]
+Underfull \hbox (badness 1107) in paragraph at lines 270--276
+[]\OT1/cmr/m/n/12 R.T. Walker, E. Nis-sen, E. Molor, and a. Bayas-galan.  Rein-
+ter-pre-
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 270--276
+\OT1/cmr/m/n/12 ta-tion of the ac-tive fault-ing in cen-tral Mon-go-lia.  \OT1/
+cmr/m/it/12 Ge-ol-ogy\OT1/cmr/m/n/12 , 35(8):
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 270--276
+\OT1/cmr/m/n/12 759, 2007.  ISSN 0091-7613.  doi: 10.1130/G23716A.1.  URL
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 278--283
+[]\OT1/cmr/m/n/12 BF Wind-ley, D Alex-eiev, and W Xiao.  Tec-tonic mod-els for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
+\OT1/cmr/m/n/12 ac-cre-tion of the Cen-tral Asian Oro-genic Belt.  \OT1/cmr/m/i
+t/12 Jour-nal of
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 278--283
+\OT1/cmr/m/it/12 the Ge-o-log-i-cal So-ci-ety, Lon-don\OT1/cmr/m/n/12 , 164(200
+4):31--47, 2007.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--293
+[]\OT1/cmr/m/n/12 An Yin.  Ceno-zoic tec-tonic evo-lu-tion of Asia: A pre-lim-i
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--293
+\OT1/cmr/m/n/12 nary syn-the-sis.  \OT1/cmr/m/it/12 Tectono-physics\OT1/cmr/m/n
+/12 , 488(1-4):293--325, June 2010.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--293
+\OT1/cmr/m/n/12 ISSN 00401951.  doi: 10.1016/j.tecto.2009.06.002.  URL
+ []
+
+
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 285--293
+\OT1/cmtt/m/n/12 http://linkinghub.elsevier.com/retrieve/pii/S0040195109003217\
+OT1/cmr/m/n/12 . 
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[54] (./main.aux (./abstract.aux) (./intro.aux) (./background.aux)
+(./structure.aux) (./discussion.aux) (./conclusion.aux) (./xsecappendix.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4549 strings out of 495059
- 66297 string characters out of 3182030
- 134076 words of memory out of 3000000
- 7598 multiletter control sequences out of 15000+200000
- 13696 words of font info for 53 fonts, out of 3000000 for 9000
+ 3378 strings out of 495059
+ 50761 string characters out of 3182030
+ 110731 words of memory out of 3000000
+ 6469 multiletter control sequences out of 15000+200000
+ 8534 words of font info for 30 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,7n,41p,1389b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmtt12.pfb>
-Output written on main.pdf (49 pages, 55658239 bytes).
+ 38i,6n,41p,1389b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (54 pages, 70694753 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
+ 240 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
